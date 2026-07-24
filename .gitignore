@@ -147,6 +147,9 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Pipeline data (structured JSON input, processed corpus)
+data/
+
 # Environments
 .env
 .envrc

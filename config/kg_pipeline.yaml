@@ -1,0 +1,21 @@
+version_: 1
+template_: SimpleKGPipeline
+from_file: false
+perform_entity_resolution: false
+neo4j_database: neo4j
+neo4j_config:
+  params_:
+    uri: { resolver_: ENV, var_: NEO4J_URI }
+    user: { resolver_: ENV, var_: NEO4J_USER }
+    password: { resolver_: ENV, var_: NEO4J_PASSWORD }
+llm_config:
+  class_: OpenAILLM
+  params_:
+    model_name: gpt-4o-mini
+    api_key: { resolver_: ENV, var_: OPENAI_API_KEY }
+    model_params: { temperature: 0 }
+embedder_config:
+  class_: OpenAIEmbeddings
+  params_:
+    model: text-embedding-3-small
+    api_key: { resolver_: ENV, var_: OPENAI_API_KEY }
