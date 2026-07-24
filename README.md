@@ -51,6 +51,7 @@ Environment variables (see `.env.example`):
 
 | Variable | Default | Description |
 |---|---|---|
+| `HARVEST_API_KEY` | — | Stage 1 scraper only (HarvestAPI); not used by Stage 2 |
 | `NEO4J_URI` | `bolt://localhost:7687` | Neo4j connection |
 | `NEO4J_DATABASE` | `neo4j` | Target database |
 | `OPENAI_API_KEY` | — | Required for semantic step |
