@@ -44,24 +44,27 @@ python scripts/02_build_semantic_graph.py   # LLM + vectors (re-run after resolv
 bash scripts/run_all.sh
 ```
 
-## Run demo UI
+## Run demo (UI + backend)
 
-Terminal 1 — API:
+One command from the repo root:
+
 ```bash
-export PYTHONPATH=.
-python scripts/start_api.py
+npm run dev
 ```
 
-Terminal 2 — Frontend:
+Or:
+
 ```bash
-cd frontend && npm run dev
+bash scripts/start_demo.sh
 ```
 
-Open **http://localhost:5173** and ask questions like:
+This starts the FastAPI backend on **http://127.0.0.1:8000** and the React UI on **http://127.0.0.1:5173**. Press Ctrl+C to stop both.
+
+First-time setup still needs `pip install -r requirements.txt` and the script will run `npm install` in `frontend/` automatically if needed.
+
+Ask questions like:
 - *Who commented on the post and what did they say?*
 - *Which companies and awards were mentioned?*
-
-Or one command: `bash scripts/start_demo.sh` (requires `npm install` in `frontend/`).
 
 ## Environment
 

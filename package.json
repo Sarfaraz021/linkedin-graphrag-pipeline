@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-graphrag-pipeline",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LinkedIn knowledge graph pipeline + GraphRAG demo",
+  "scripts": {
+    "dev": "bash scripts/start_demo.sh",
+    "demo": "bash scripts/start_demo.sh",
+    "api": "PYTHONPATH=. python3 scripts/start_api.py",
+    "ui": "cd frontend && npm run dev",
+    "pipeline": "bash scripts/run_all.sh"
+  }
+}
