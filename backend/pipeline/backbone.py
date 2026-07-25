@@ -5,8 +5,8 @@ from __future__ import annotations
 import json
 from typing import Any
 
-from src.io_load import count_expected_backbone
-from src.neo4j_client import Neo4jClient
+from backend.pipeline.io_load import count_expected_backbone
+from backend.pipeline.neo4j_client import Neo4jClient
 
 RECORD_SEPARATOR = "\n---\n"
 

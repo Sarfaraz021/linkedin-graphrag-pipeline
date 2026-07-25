@@ -7,7 +7,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any, Iterator
 
-from src.backbone import RECORD_SEPARATOR
+from backend.pipeline.backbone import RECORD_SEPARATOR
 
 PROFILE_ROLES = {"author", "commenter"}
 REACTOR_ROLE = "reactor"

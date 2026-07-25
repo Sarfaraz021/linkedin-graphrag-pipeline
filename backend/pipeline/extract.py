@@ -9,10 +9,10 @@ from neo4j_graphrag.embeddings.openai import OpenAIEmbeddings
 from neo4j_graphrag.experimental.pipeline.kg_builder import SimpleKGPipeline
 from neo4j_graphrag.llm import OpenAILLM
 
-from src.chunking import RecordCountSplitter
-from src.config import Settings
-from src.neo4j_client import Neo4jClient
-from src.schema import get_semantic_schema_dict
+from backend.pipeline.chunking import RecordCountSplitter
+from backend.pipeline.config import Settings
+from backend.pipeline.neo4j_client import Neo4jClient
+from backend.pipeline.schema import get_semantic_schema_dict
 
 SEMANTIC_PROMPT = """Extract entities and relationships from LinkedIn post records.
 

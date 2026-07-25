@@ -6,7 +6,7 @@ from typing import Any
 
 import neo4j
 
-from src.config import Settings
+from backend.pipeline.config import Settings
 
 CONSTRAINTS_AND_INDEXES = [
     "CREATE CONSTRAINT person_id IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE",

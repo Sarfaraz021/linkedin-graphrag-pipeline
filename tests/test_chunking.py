@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import asyncio
 
-from src.chunking import RecordCountSplitter
+from backend.pipeline.chunking import RecordCountSplitter
 
 
 def _records(n: int) -> str:

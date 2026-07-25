@@ -5,13 +5,13 @@ from __future__ import annotations
 import asyncio
 from typing import Any
 
-from src.backbone import load_backbone
-from src.config import Settings, get_settings
-from src.corpus import iter_corpus_for_posts
-from src.extract import extract_semantic_graph_async
-from src.io_load import iter_structured_posts
-from src.neo4j_client import Neo4jClient
-from src.resolve import reconcile_llm_post_stubs, run_entity_resolution
+from backend.pipeline.backbone import load_backbone
+from backend.pipeline.config import Settings, get_settings
+from backend.pipeline.corpus import iter_corpus_for_posts
+from backend.pipeline.extract import extract_semantic_graph_async
+from backend.pipeline.io_load import iter_structured_posts
+from backend.pipeline.neo4j_client import Neo4jClient
+from backend.pipeline.resolve import reconcile_llm_post_stubs, run_entity_resolution
 
 
 def load_all_posts(settings: Settings) -> list[dict[str, Any]]:

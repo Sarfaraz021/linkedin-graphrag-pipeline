@@ -8,17 +8,28 @@ import unicodedata
 
 from neo4j_graphrag.experimental.components.resolver import FuzzyMatchResolver
 
-from src.config import Settings
-from src.neo4j_client import Neo4jClient
-from src.schema import SEMANTIC_NODE_LABELS
+from backend.pipeline.config import Settings
+from backend.pipeline.neo4j_client import Neo4jClient
+from backend.pipeline.schema import SEMANTIC_NODE_LABELS
 
 RESOLVED_LABEL = "Resolved"
 
 
-def normalize_name(value: str | None) -> str:
-    if not value:
+def _coerce_text(value: object | None) -> str:
+    if value is None:
         return ""
-    text = unicodedata.normalize("NFKD", value)
+    if isinstance(value, list):
+        return " ".join(_coerce_text(v) for v in value if v is not None)
+    if not isinstance(value, str):
+        return str(value)
+    return value
+
+
+def normalize_name(value: object | None) -> str:
+    text = _coerce_text(value)
+    if not text:
+        return ""
+    text = unicodedata.normalize("NFKD", text)
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     text = text.replace("'", "").replace("'", "").replace("`", "")
     text = re.sub(r"[^\w\s]", " ", text.lower())
@@ -139,7 +150,7 @@ def mark_resolved_semantic_nodes(client: Neo4jClient) -> None:
             f"""
             MATCH (n:{label}:__Entity__)
             WHERE NOT n:{RESOLVED_LABEL}
-            SET n:{RESOLVED_LABEL} = true
+            SET n:{RESOLVED_LABEL}
             """
         )
 
@@ -170,7 +181,8 @@ async def fuzzy_resolve_semantic_entities_async(
         client.run_write(
             f"""
             MATCH (n:{label}:__Entity__)
-            SET n:{RESOLVED_LABEL} = true
+            WHERE NOT n:{RESOLVED_LABEL}
+            SET n:{RESOLVED_LABEL}
             """
         )
 

@@ -5,7 +5,7 @@ from __future__ import annotations
 from neo4j_graphrag.experimental.components.text_splitters.base import TextSplitter
 from neo4j_graphrag.experimental.components.types import TextChunk, TextChunks
 
-from src.backbone import RECORD_SEPARATOR
+from backend.pipeline.backbone import RECORD_SEPARATOR
 
 
 class RecordCountSplitter(TextSplitter):

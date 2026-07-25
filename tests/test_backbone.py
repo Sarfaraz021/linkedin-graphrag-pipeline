@@ -5,9 +5,9 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from src.backbone import _comment_rows, _mention_rows, _person_row, _post_row
-from src.io_load import count_expected_backbone, load_structured_post, validate_structured_post
-from src.resolve import normalize_name
+from backend.pipeline.backbone import _comment_rows, _mention_rows, _person_row, _post_row
+from backend.pipeline.io_load import count_expected_backbone, load_structured_post, validate_structured_post
+from backend.pipeline.resolve import normalize_name
 
 SAMPLE = Path(__file__).resolve().parent / "fixtures" / "7470802348391673856.json"
 
@@ -54,6 +54,10 @@ def test_mention_rows_preserve_ids():
 def test_comment_rows_require_person_id():
     rows = _comment_rows([{"id": "c1", "personId": "p1", "text": "hi"}])
     assert rows[0]["personId"] == "p1"
+
+
+def test_normalize_name_handles_list():
+    assert normalize_name(["Alice", "Audley"]) == normalize_name("Alice Audley")
 
 
 def test_normalize_name_strips_punctuation():

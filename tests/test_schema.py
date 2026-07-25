@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import asyncio
 
-from src.schema import (
+from backend.pipeline.schema import (
     PATTERNS,
     SEMANTIC_NODE_LABELS,
     build_semantic_schema,

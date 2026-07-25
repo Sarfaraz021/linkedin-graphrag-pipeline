@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from src.pipeline import run_semantic_graph  # noqa: E402
+from backend.pipeline.pipeline import run_semantic_graph  # noqa: E402
 
 
 def main() -> None:
