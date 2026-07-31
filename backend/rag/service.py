@@ -26,7 +26,7 @@ WITH chunk, score, doc,
        ELSE null
      END AS postId
 OPTIONAL MATCH (post:Post {id: postId})
-OPTIONAL MATCH (author:Person)-[:AUTHORED]->(post)
+OPTIONAL MATCH (author:Person)-[:WROTE]->(post)
 RETURN chunk.text AS text,
        score,
        postId,
@@ -110,7 +110,8 @@ class RagService:
         stats = {
             "people": client.count_nodes("Person"),
             "posts": client.count_nodes("Post"),
-            "companies": client.count_nodes("Company"),
+            "organisations": client.count_nodes("Organisation"),
+            "companies": client.count_nodes("Organisation"),  # backward compat for UI
             "chunks": client.count_nodes("Chunk"),
             "comments": client.count_relationships("COMMENTED"),
             "reactions": client.count_relationships("REACTED"),
@@ -123,7 +124,7 @@ class RagService:
         rows = client.run(
             """
             MATCH (post:Post)
-            OPTIONAL MATCH (author:Person)-[:AUTHORED]->(post)
+            OPTIONAL MATCH (author:Person)-[:WROTE]->(post)
             OPTIONAL MATCH (commenter:Person)-[c:COMMENTED]->(post)
             WITH post, author,
                  collect(DISTINCT {name: commenter.name, text: c.commentary})[..8] AS comments

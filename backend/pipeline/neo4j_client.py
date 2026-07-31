@@ -8,12 +8,23 @@ import neo4j
 
 from backend.pipeline.config import Settings
 
+LEGACY_MIGRATIONS = [
+    "MATCH (c:Company) SET c:Organisation REMOVE c:Company",
+    """
+    MATCH (a)-[r:AUTHORED]->(b)
+    MERGE (a)-[w:WROTE]->(b)
+    SET w += properties(r)
+    DELETE r
+    """,
+]
+
 CONSTRAINTS_AND_INDEXES = [
     "CREATE CONSTRAINT person_id IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE",
     "CREATE CONSTRAINT post_id IF NOT EXISTS FOR (p:Post) REQUIRE p.id IS UNIQUE",
-    "CREATE CONSTRAINT company_id IF NOT EXISTS FOR (c:Company) REQUIRE c.id IS UNIQUE",
+    "CREATE CONSTRAINT organisation_id IF NOT EXISTS FOR (o:Organisation) REQUIRE o.id IS UNIQUE",
     "CREATE INDEX person_url IF NOT EXISTS FOR (p:Person) ON (p.linkedinUrl)",
-    "CREATE INDEX company_name IF NOT EXISTS FOR (c:Company) ON (c.name)",
+    "CREATE INDEX organisation_name IF NOT EXISTS FOR (o:Organisation) ON (o.name)",
+    "CREATE INDEX post_category IF NOT EXISTS FOR (p:Post) ON (p.category)",
     "CREATE INDEX chunk_post_id IF NOT EXISTS FOR (c:Chunk) ON (c.postId)",
     (
         "CREATE VECTOR INDEX chunk_embedding IF NOT EXISTS "
@@ -52,7 +63,16 @@ class Neo4jClient:
     def run_write(self, query: str, parameters: dict[str, Any] | None = None) -> None:
         self.run(query, parameters)
 
+    def migrate_legacy_labels(self) -> None:
+        """One-time idempotent migrations (Company→Organisation, AUTHORED→WROTE)."""
+        for stmt in LEGACY_MIGRATIONS:
+            try:
+                self.run_write(stmt)
+            except Exception:
+                pass
+
     def ensure_schema(self) -> None:
+        self.migrate_legacy_labels()
         for stmt in CONSTRAINTS_AND_INDEXES:
             try:
                 self.run_write(stmt)

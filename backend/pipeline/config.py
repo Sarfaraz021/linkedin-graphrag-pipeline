@@ -27,7 +27,10 @@ class Settings:
     neo4j_password: str
     neo4j_database: str
     openai_api_key: str
+    anthropic_api_key: str
+    llm_provider: str
     llm_model: str
+    anthropic_model: str
     embed_model: str
     chunk_records: int
     chunk_overlap: int
@@ -44,7 +47,10 @@ class Settings:
             neo4j_password=os.getenv("NEO4J_PASSWORD", ""),
             neo4j_database=os.getenv("NEO4J_DATABASE", "neo4j"),
             openai_api_key=os.getenv("OPENAI_API_KEY", ""),
+            anthropic_api_key=os.getenv("ANTHROPIC_API_KEY", ""),
+            llm_provider=os.getenv("LLM_PROVIDER", "auto"),
             llm_model=os.getenv("LLM_MODEL", "gpt-4o-mini"),
+            anthropic_model=os.getenv("ANTHROPIC_MODEL", "claude-3-5-haiku-20241022"),
             embed_model=os.getenv("EMBED_MODEL", "text-embedding-3-small"),
             chunk_records=int(os.getenv("CHUNK_RECORDS", "30")),
             chunk_overlap=int(os.getenv("CHUNK_OVERLAP", "5")),

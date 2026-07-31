@@ -59,7 +59,7 @@ def count_expected_backbone(data: dict[str, Any]) -> dict[str, int]:
     """Return expected relationship counts for acceptance tests."""
     post = data["post"]
     return {
-        "authored": 1 if post.get("authorId") else 0,
+        "wrote": 1 if post.get("authorId") else 0,
         "commented": len(data.get("comments") or []),
         "reacted": len(data.get("reactions") or []),
         "mentions": len(post.get("mentions") or []),

@@ -6,6 +6,7 @@ import asyncio
 from typing import Any
 
 from backend.pipeline.backbone import load_backbone
+from backend.pipeline.classify import classify_and_persist_posts
 from backend.pipeline.config import Settings, get_settings
 from backend.pipeline.corpus import iter_corpus_for_posts
 from backend.pipeline.extract import extract_semantic_graph_async
@@ -32,20 +33,28 @@ def run_semantic_graph(settings: Settings | None = None) -> dict[str, Any]:
         raise ValueError("OPENAI_API_KEY is required for semantic extraction")
 
     posts = load_all_posts(settings)
-    corpus_items: list[tuple[str, str]] = []
+    post_urls = {
+        p["post"]["id"]: p["post"].get("url") or p["post"].get("shareUrl") or ""
+        for p in posts
+    }
+    corpus_items: list[tuple[str, str, str]] = []
     for post_id, _records, corpus_text in iter_corpus_for_posts(
         posts,
         settings.processed_dir,
         include_reactor_profiles=settings.include_reactor_profiles,
     ):
-        corpus_items.append((post_id, corpus_text))
+        corpus_items.append((post_id, corpus_text, post_urls.get(post_id, "")))
 
     with Neo4jClient(settings) as client:
+        classification_results = classify_and_persist_posts(client, settings, posts)
+
         extraction_results = []
         post_stubs_merged = 0
-        for post_id, corpus_text in corpus_items:
+        for post_id, corpus_text, post_url in corpus_items:
             result = asyncio.run(
-                extract_semantic_graph_async(client, settings, post_id, corpus_text)
+                extract_semantic_graph_async(
+                    client, settings, post_id, corpus_text, post_url
+                )
             )
             extraction_results.append(result)
             post_stubs_merged += reconcile_llm_post_stubs(client, post_id)
@@ -54,6 +63,7 @@ def run_semantic_graph(settings: Settings | None = None) -> dict[str, Any]:
 
     return {
         "posts_processed": len(corpus_items),
+        "classification": classification_results,
         "extraction_runs": len(extraction_results),
         "resolution": resolution_stats,
     }

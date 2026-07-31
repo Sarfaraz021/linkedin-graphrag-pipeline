@@ -121,7 +121,7 @@ def load_backbone_post(client: Neo4jClient, data: dict[str, Any]) -> dict[str, i
             """
             MATCH (post:Post {id: $post_id})
             MATCH (author:Person {id: $author_id})
-            MERGE (author)-[r:AUTHORED]->(post)
+            MERGE (author)-[r:WROTE]->(post)
             SET r.updatedAt = datetime()
             """,
             {"post_id": post_id, "author_id": post["authorId"]},
@@ -164,12 +164,12 @@ def load_backbone_post(client: Neo4jClient, data: dict[str, Any]) -> dict[str, i
             client.run_write(
                 """
                 MATCH (post:Post {id: $post_id})
-                MERGE (c:Company {id: $company_id})
-                SET c.name = $name,
-                    c.url = $url,
-                    c.source = 'backbone',
-                    c.updatedAt = datetime()
-                MERGE (post)-[r:MENTIONS]->(c)
+                MERGE (o:Organisation {id: $company_id})
+                SET o.name = $name,
+                    o.url = $url,
+                    o.source = 'backbone',
+                    o.updatedAt = datetime()
+                MERGE (post)-[r:MENTIONS]->(o)
                 SET r.updatedAt = datetime()
                 """,
                 {
@@ -205,7 +205,7 @@ def load_backbone_post(client: Neo4jClient, data: dict[str, Any]) -> dict[str, i
 
 
 def load_backbone(client: Neo4jClient, posts: list[dict[str, Any]]) -> dict[str, int]:
-    totals = {"authored": 0, "commented": 0, "reacted": 0, "mentions": 0, "people": 0, "posts": 0}
+    totals = {"wrote": 0, "commented": 0, "reacted": 0, "mentions": 0, "people": 0, "posts": 0}
     for data in posts:
         counts = load_backbone_post(client, data)
         for key in totals:
