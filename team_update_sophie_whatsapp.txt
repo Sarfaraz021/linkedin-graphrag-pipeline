@@ -1,0 +1,57 @@
+Hey team — quick update on the LinkedIn GraphRAG pipeline (Sophie feedback work).
+
+*What we built (pushed to main)*
+
+We shifted the graph from "who engaged with this post" to FMCG/challenger-brand ecosystem intelligence — awards, orgs, retailers, investors, events.
+
+Latest commit on main: 4349514 (1 Aug)
+Spec doc in repo: CURSOR_CHANGES_sophie_feedback.md
+
+*Changes 1–3 — DONE ✅*
+
+1. Post classification
+- Each post gets category + confidence + evidence
+- Categories: Award, Fundraising, Investment, RetailerBuyer, FounderStory, Event, Partnership, ProductLaunch, Uncategorised
+- bCreator post classified as Award (0.95 confidence)
+
+2. Schema aligned to Sophie's vocabulary
+- Company → Organisation
+- AUTHORED → WROTE
+- Added client entity types: Brand, Retailer, Founder, Investor, Award, Event, etc.
+
+3. Semantic relationships + provenance
+- Edges like NOMINATED_FOR, SUPPORTED_BY, SPONSORS, INVESTED_IN, etc.
+- Every LLM edge has confidence_score, source_post_url, evidence_text
+
+Also added: cleaned bCreator sample JSON, acceptance check script, Anthropic fallback if OpenAI fails, 20 tests passing.
+
+*Already on main before this*
+- Full pipeline (JSON → Neo4j + LLM extraction)
+- FastAPI + GraphRAG chat backend
+- React demo UI
+- README + npm run dev to start everything
+
+*Tested on bCreator sample post*
+✅ Post = Award with evidence
+✅ Orgs: bCreator, ITV, IT'S RATED BY
+✅ Semantic edges with provenance (NOMINATED_FOR, SPONSORS)
+⚠️ SUPPORTED_BY edge not created yet (LLM used SPONSORS instead)
+⚠️ Some duplicate org nodes (backbone vs LLM) — needs dedup fix
+
+*NOT done yet (Changes 4–6)*
+❌ Author relevance tagging (Monique = low relevance)
+❌ Commenter/reactor noise filtering
+❌ UI entity/relationship filters + Sophie's 5 seed queries
+
+*Next steps*
+1. Sophie review of Changes 1–3
+2. Fix org dedup + SUPPORTED_BY edge
+3. Build relevance filtering (4–5)
+4. UI filters + seed queries (6)
+5. Scale to ~1,800 posts
+
+*Questions for Sophie*
+- Is the category list final?
+- Are creator/influencer awards (like bCreator) in scope or just format examples?
+
+Happy to walk through on a call if needed 👍
