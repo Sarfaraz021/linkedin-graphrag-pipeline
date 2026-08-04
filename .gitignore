@@ -15,10 +15,6 @@ venv/
 .coverage
 htmlcov/
 
-# Pipeline data (structured JSON, processed corpus, scraper output)
-data/
-linkedin scraper/output/
-*.jsonl
 
 # Neo4j / local dumps (keep tests/fixtures tracked)
 7470802348391673856.json

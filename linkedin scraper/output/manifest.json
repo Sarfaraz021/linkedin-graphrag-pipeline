@@ -1,0 +1,123 @@
+{
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470716455882502144/": {
+    "postId": "7470716455882502144",
+    "scrapedAt": "2026-08-03T11:28:04.297846+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 11,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 46
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470802348391673856/": {
+    "postId": "7470802348391673856",
+    "scrapedAt": "2026-08-03T11:28:06.712695+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 25,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 183
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470452039668436992/": {
+    "postId": "7470452039668436992",
+    "scrapedAt": "2026-08-03T12:01:07.791390+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 8,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 69
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470471051978620928/": {
+    "postId": "7470471051978620928",
+    "scrapedAt": "2026-08-03T12:08:54.957503+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 6,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 45
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470500472403984384/": {
+    "postId": "7470500472403984384",
+    "scrapedAt": "2026-08-03T12:25:50.846130+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 2,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 53
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470551993103851520/": {
+    "postId": "7470551993103851520",
+    "scrapedAt": "2026-08-03T12:55:56.157542+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 0,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 111
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470457277142077440/": {
+    "postId": "7470457277142077440",
+    "scrapedAt": "2026-08-03T12:58:01.007554+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 6,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 0
+  },
+  "https://www.linkedin.com/in/charlie-bowker-ba277b8b/": {
+    "postId": "https://www.linkedin.com/in/charlie-bowker-ba277b8b/",
+    "scrapedAt": "2026-08-03T12:58:01.812394+00:00",
+    "fetchedPost": false,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 0,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 0
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470270991294971904/": {
+    "postId": "7470270991294971904",
+    "scrapedAt": "2026-08-03T13:00:44.336183+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 0,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 9
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469703844323545089/": {
+    "postId": "7469703844323545089",
+    "scrapedAt": "2026-08-03T13:03:46.075623+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 1,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 8
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470376778100834304/": {
+    "postId": "7470376778100834304",
+    "scrapedAt": "2026-08-04T22:55:01.329538+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 19,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 91
+  }
+}
