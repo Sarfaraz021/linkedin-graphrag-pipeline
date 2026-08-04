@@ -1,0 +1,109 @@
+LinkedIn Scraper — Windows Handoff (for teammate)
+=================================================
+
+Repo: https://github.com/Sarfaraz021/linkedin-graphrag-pipeline
+
+BATCH STATUS (when Sarfaraz stopped)
+------------------------------------
+- Batch: 20 URLs from Excel starting at skip=23
+- Done: 1 post → 7470376778100834304.json
+- Incomplete: 7470352519903240192
+- Left in this batch: 18 posts
+
+
+STEP 1 — ONE-TIME SETUP (PowerShell)
+------------------------------------
+Open PowerShell, then:
+
+  git clone https://github.com/Sarfaraz021/linkedin-graphrag-pipeline.git
+  cd linkedin-graphrag-pipeline
+
+  py -m venv .venv
+  .\.venv\Scripts\Activate.ps1
+
+If activation is blocked, run once:
+  Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+
+  pip install -r requirements.txt
+  pip install openpyxl requests pandas
+
+  copy .env.example .env
+
+Open .env in Notepad and set:
+  HARVEST_API_KEY=your-harvest-api-key-here
+
+
+STEP 2A — RESUME (recommended)
+------------------------------
+Ask Sarfaraz to zip and send:
+
+  linkedin scraper\output\manifest.json
+  linkedin scraper\output\profile_cache.json
+  linkedin scraper\output\structured\7470376778100834304.json
+
+Unzip into the same folders in your clone.
+
+Then in PowerShell (venv activated):
+
+  cd linkedin-graphrag-pipeline
+  $env:HARVEST_API_KEY = (Get-Content .env | Where-Object { $_ -match '^HARVEST_API_KEY=' } | ForEach-Object { $_ -replace '^HARVEST_API_KEY=','' })
+  python "linkedin scraper\main.py" `
+    --api-key $env:HARVEST_API_KEY `
+    --excel "data\Urls\Linkedin saved posts.xlsx" `
+    --output-dir "linkedin scraper\output" `
+    --max-urls 20 `
+    --skip 23 `
+    --enrich `
+    --enrich-mode basic
+
+Manifest skips URLs already scraped. Post 1 reuses cached data.
+
+
+STEP 2B — FRESH START (no files from Sarfaraz)
+----------------------------------------------
+Skip the 1 finished post; scrape the remaining 19:
+
+  cd linkedin-graphrag-pipeline
+  .\.venv\Scripts\Activate.ps1
+  $env:HARVEST_API_KEY = (Get-Content .env | Where-Object { $_ -match '^HARVEST_API_KEY=' } | ForEach-Object { $_ -replace '^HARVEST_API_KEY=','' })
+  python "linkedin scraper\main.py" `
+    --api-key $env:HARVEST_API_KEY `
+    --excel "data\Urls\Linkedin saved posts.xlsx" `
+    --output-dir "linkedin scraper\output" `
+    --max-urls 19 `
+    --skip 24 `
+    --enrich `
+    --enrich-mode basic
+
+
+STEP 3 — MONITOR (PowerShell)
+-----------------------------
+  Get-Content data\scrape_batch_20.log -Wait -Tail 20
+  (Get-ChildItem "linkedin scraper\output\structured\*.json").Count
+
+
+ALTERNATIVE — Git Bash on Windows
+---------------------------------
+If Git for Windows is installed, open "Git Bash" and run:
+
+  source .venv/Scripts/activate
+  bash scripts/run_scrape_batch.sh 20 23
+
+(or 19 24 for Option B)
+
+
+AFTER SCRAPING — CLEAN JSON
+---------------------------
+  $env:PYTHONPATH = "."
+  python scripts\clean_structured_posts.py
+
+Clean files go to: data\raw\<postId>.json
+
+
+NOTES
+-----
+- Excel is in repo: data\Urls\Linkedin saved posts.xlsx
+- Output folder: linkedin scraper\output\structured\
+- Scraping is slow with enrichment (~5–30 min per post).
+- data\ and scraper output are NOT in git — share zip via Drive/WhatsApp.
+- HarvestAPI docs: https://docs.harvestapi.io

@@ -42,6 +42,7 @@ app.add_middleware(
 class ChatRequest(BaseModel):
     message: str = Field(..., min_length=1, max_length=4000)
     top_k: int = Field(default=8, ge=1, le=20)
+    session_id: str = Field(default="default", min_length=1, max_length=128)
 
 
 class ChatResponseModel(BaseModel):
@@ -68,7 +69,9 @@ def chat(body: ChatRequest) -> ChatResponseModel:
     if not rag_service:
         raise HTTPException(503, "Service not ready")
     try:
-        result = rag_service.ask(body.message.strip(), top_k=body.top_k)
+        result = rag_service.ask(
+            body.message.strip(), session_id=body.session_id, top_k=body.top_k
+        )
     except Exception as exc:
         raise HTTPException(500, str(exc)) from exc
     return ChatResponseModel(

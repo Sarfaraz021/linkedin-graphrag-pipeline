@@ -31,11 +31,25 @@ export async function fetchStats(): Promise<GraphStats> {
   return res.json();
 }
 
+const SESSION_STORAGE_KEY = "graphrag_session_id";
+
+function getSessionId(): string {
+  let sessionId = localStorage.getItem(SESSION_STORAGE_KEY);
+  if (!sessionId) {
+    sessionId =
+      typeof crypto !== "undefined" && "randomUUID" in crypto
+        ? crypto.randomUUID()
+        : `session-${Date.now()}-${Math.random().toString(36).slice(2)}`;
+    localStorage.setItem(SESSION_STORAGE_KEY, sessionId);
+  }
+  return sessionId;
+}
+
 export async function sendMessage(message: string): Promise<ChatResult> {
   const res = await fetch(`${API_BASE}/api/chat`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ message }),
+    body: JSON.stringify({ message, session_id: getSessionId() }),
   });
   if (!res.ok) {
     const detail = await res.text();
