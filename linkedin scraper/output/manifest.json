@@ -111,7 +111,7 @@
   },
   "https://www.linkedin.com/feed/update/urn:li:activity:7470376778100834304/": {
     "postId": "7470376778100834304",
-    "scrapedAt": "2026-08-04T22:55:01.329538+00:00",
+    "scrapedAt": "2026-08-05T19:33:09.828840+00:00",
     "fetchedPost": true,
     "fetchedComments": true,
     "commentsCapUsed": 0,
@@ -119,5 +119,49 @@
     "fetchedReactions": true,
     "reactionsCapUsed": 0,
     "reactionsCollected": 91
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470440395710164993/": {
+    "postId": "7470440395710164993",
+    "scrapedAt": "2026-08-05T19:22:57.121671+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 5,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 88
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470031186178977793/": {
+    "postId": "7470031186178977793",
+    "scrapedAt": "2026-08-05T19:28:26.634098+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 4,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 35
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470198159542157312/": {
+    "postId": "7470198159542157312",
+    "scrapedAt": "2026-08-05T19:33:09.796414+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 4,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 36
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470352519903240192/": {
+    "postId": "7470352519903240192",
+    "scrapedAt": "2026-08-05T19:43:06.918184+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 1,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 30
   }
 }
