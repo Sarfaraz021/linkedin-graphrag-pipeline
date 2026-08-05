@@ -163,5 +163,16 @@
     "fetchedReactions": true,
     "reactionsCapUsed": 0,
     "reactionsCollected": 30
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470134862591569920/": {
+    "postId": "7470134862591569920",
+    "scrapedAt": "2026-08-05T21:16:11.385108+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 4,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 286
   }
 }
