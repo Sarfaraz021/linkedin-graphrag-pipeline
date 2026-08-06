@@ -1,0 +1,911 @@
+{
+  "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896/",
+  "postId": "7469741789093072896",
+  "post": {
+    "id": "7469741789093072896",
+    "linkedinUrl": "https://www.linkedin.com/posts/sabrina-jarrett-01334084_really-excited-about-this-event-next-week-activity-7469741789093072896-qydx",
+    "content": "Really excited about this event next week; \nThis upcoming event is focused on the beauty industry - a sector that continues to show incredible growth, innovation and resilience. \nWhilst our women in business events haven’t been industry specific before, I’m looking forward to bringing together professionals from this space to share insights, opportunities and perspectives on what’s driving success. \nThe beauty sector is evolving rapidly and it’s an exciting time to support businesses navigating that growth. \n\nLooking forward to welcoming everyone. Check out the comments to sign up.",
+    "contentAttributes": [],
+    "author": {
+      "id": "ACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg",
+      "universalName": null,
+      "publicIdentifier": "sabrina-jarrett-01334084",
+      "type": "profile",
+      "name": "Sabrina Jarrett",
+      "linkedinUrl": "https://www.linkedin.com/in/sabrina-jarrett-01334084?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg",
+      "info": "Business Relationship Manager @ Barclays | Commercial Lending",
+      "website": null,
+      "websiteLabel": null,
+      "avatar": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQHE-jFk7_UmNw/profile-displayphoto-shrink_800_800/B4EZWJ5O4DHMAc-/0/1741775238500?e=1787788800&v=beta&t=UVOi7AMLGaNOcmd4NrXUJBf80x8-panjVOdUcqhgITY",
+        "width": 799,
+        "height": 800
+      },
+      "urn": "299427855"
+    },
+    "postedAt": {
+      "timestamp": 1780925223611,
+      "date": "2026-06-08T13:27:03.611Z",
+      "postedAgoShort": "1mo",
+      "postedAgoText": "1 month ago • Edited • Visible to anyone on or off LinkedIn"
+    },
+    "postImages": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E22AQGkn1k-pIiP4A/feedshare-shrink_1280/B4EZ6nak1CKcAQ-/0/1780925222567?e=1787788800&v=beta&t=TsuHd0KHPitpYEKeTMiONAT3FTMGUcYt7rHF1iLrBKo",
+        "width": 1170,
+        "height": 2106
+      }
+    ],
+    "socialContent": {
+      "hideCommentsCount": false,
+      "hideReactionsCount": false,
+      "hideSocialActivityCounts": false,
+      "hideShareAction": false,
+      "hideSendAction": false,
+      "hideRepostsCount": false,
+      "hideViewsCount": false,
+      "trustInterventionBanner": null,
+      "hideReactAction": false,
+      "hideCommentAction": false,
+      "shareUrl": "https://www.linkedin.com/posts/sabrina-jarrett-01334084_really-excited-about-this-event-next-week-activity-7469741789093072896-qydx?",
+      "showContributionExperience": false,
+      "showSocialDetail": true
+    },
+    "comments": [],
+    "header": {
+      "text": null
+    },
+    "entityId": "7469741789093072896",
+    "shareUrn": "urn:li:share:7469741787948158976",
+    "shareLinkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7469741787948158976",
+    "engagement": {
+      "id": "7469741789093072896",
+      "likes": 45,
+      "comments": 3,
+      "shares": 1,
+      "reactions": [
+        {
+          "type": "LIKE",
+          "count": 34
+        },
+        {
+          "type": "EMPATHY",
+          "count": 8
+        },
+        {
+          "type": "APPRECIATION",
+          "count": 2
+        },
+        {
+          "type": "PRAISE",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "comments": [
+    {
+      "id": "7471250417537081345",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7469741789093072896%2C7471250417537081345%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287471250417537081345%2Curn%3Ali%3Aactivity%3A7469741789093072896%29",
+      "commentary": "Sandi Thomas Shekinah Glory ",
+      "commentaryAttributes": [
+        {
+          "start": 0,
+          "length": 12,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAAGEZH_MBEyjqIpuucjfGms8q1oSfetnwJ18",
+            "firstName": "Sandi",
+            "lastName": "Thomas",
+            "linkedinUrl": "https://www.linkedin.com/in/sandi-thomas-583689395",
+            "publicIdentifier": "sandi-thomas-583689395"
+          }
+        },
+        {
+          "start": 13,
+          "length": 14,
+          "type": "PROFILE_MENTION",
+          "hyperlink": null,
+          "textLink": null,
+          "profile": {
+            "id": "ACoAADwKdDoBKgH1AIbSMu-IPTcMk4mm2yieGdo",
+            "firstName": "Shekinah",
+            "lastName": "Glory",
+            "linkedinUrl": "https://www.linkedin.com/in/shekinah-glory-84a422241",
+            "publicIdentifier": "shekinah-glory-84a422241"
+          }
+        }
+      ],
+      "createdAt": "2026-06-12T17:21:48.662Z",
+      "createdAtTimestamp": 1781284908662,
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reactions": []
+      },
+      "postId": "urn:li:activity:7469741789093072896",
+      "pinned": false,
+      "contributed": false,
+      "edited": false,
+      "actor": {
+        "id": "ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM",
+        "type": "profile",
+        "name": "Naomi Dube",
+        "linkedinUrl": "https://www.linkedin.com/in/naomi-dube-16889022",
+        "position": "🌟Driving Innovation Through IT Consulting and Workforce Training 🔍 Delivering Tailored IT Solutions",
+        "author": false
+      }
+    },
+    {
+      "id": "7469763165787181056",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7469741789093072896%2C7469763165787181056%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287469763165787181056%2Curn%3Ali%3Aactivity%3A7469741789093072896%29",
+      "commentary": "Looking forward to this one! 💁🏾‍♀️",
+      "commentaryAttributes": [],
+      "createdAt": "2026-06-08T14:52:00.213Z",
+      "createdAtTimestamp": 1780930320213,
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reactions": []
+      },
+      "postId": "urn:li:activity:7469741789093072896",
+      "pinned": false,
+      "contributed": false,
+      "edited": false,
+      "actor": {
+        "id": "ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU",
+        "type": "profile",
+        "name": "Hannah Spence",
+        "linkedinUrl": "https://www.linkedin.com/in/hannahespence",
+        "position": "Miss Be Seen 👩🏾‍💻 Award-Winning Visibility Strategist Helping 1000s of Underrepresented Professionals Become Visible & In-Demand Online | Social Media Educator of the Year 🏆 | Keynote Speaker | Message me “SEEN”",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH8izdRHCSUTQ/profile-displayphoto-crop_800_800/B4EZ4IIdAvKIAI-/0/1778252894941?e=1787788800&v=beta&t=PAZVT1btwVLn-BM4yq4IQUOeHuHIJCnafcdLxn0FV4Y",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQH8izdRHCSUTQ/profile-displayphoto-crop_800_800/B4EZ4IIdAvKIAI-/0/1778252894941?e=1787788800&v=beta&t=PAZVT1btwVLn-BM4yq4IQUOeHuHIJCnafcdLxn0FV4Y",
+          "width": 800,
+          "height": 800
+        },
+        "author": false
+      }
+    },
+    {
+      "id": "7469741829396049922",
+      "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7469741789093072896%2C7469741829396049922%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287469741829396049922%2Curn%3Ali%3Aactivity%3A7469741789093072896%29",
+      "commentary": "https://www.eventbrite.co.uk/e/from-beauty-brand-to-business-success-empowering-female-founders-tickets-1990645365876",
+      "commentaryAttributes": [],
+      "createdAt": "2026-06-08T13:27:13.221Z",
+      "createdAtTimestamp": 1780925233221,
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reactions": [
+          {
+            "type": "LIKE",
+            "count": 2
+          }
+        ]
+      },
+      "postId": "urn:li:activity:7469741789093072896",
+      "pinned": false,
+      "contributed": false,
+      "edited": false,
+      "actor": {
+        "id": "ACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg",
+        "type": "profile",
+        "name": "Sabrina Jarrett",
+        "linkedinUrl": "https://www.linkedin.com/in/sabrina-jarrett-01334084",
+        "position": "Business Relationship Manager @ Barclays | Commercial Lending",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHE-jFk7_UmNw/profile-displayphoto-shrink_800_800/B4EZWJ5O4DHMAc-/0/1741775238500?e=1787788800&v=beta&t=UVOi7AMLGaNOcmd4NrXUJBf80x8-panjVOdUcqhgITY",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQHE-jFk7_UmNw/profile-displayphoto-shrink_800_800/B4EZWJ5O4DHMAc-/0/1741775238500?e=1787788800&v=beta&t=UVOi7AMLGaNOcmd4NrXUJBf80x8-panjVOdUcqhgITY",
+          "width": 799,
+          "height": 800
+        },
+        "author": true
+      }
+    }
+  ],
+  "reactions": [
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY",
+        "name": "Hyesha Kaur",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY",
+        "position": "Co-Founder | Pharmacist Prescriber | Entrepreneur | Content Creator | Helping Individuals & Organisations Prioritise Health & Wellbeing | Featured in Forbes"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME",
+        "name": "Maxine Los MSCI",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME",
+        "position": "Private Banker at Barclays Private Bank"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU",
+        "name": "Hollie Greenaway",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU",
+        "position": "Empowering founders to grow, scale & raise 🚀 Eagle Labs🦅 🧪",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGQ6flgym0fuw/profile-displayphoto-crop_800_800/B4EZ8AQ_PlIwAM-/0/1782415882021?e=1787788800&v=beta&t=kJd8S49zXhgdw01Z80UnSRmE-k9_2yT5sQeD3yQ7YdU",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQGQ6flgym0fuw/profile-displayphoto-crop_800_800/B4EZ8AQ_PlIwAM-/0/1782415882021?e=1787788800&v=beta&t=kJd8S49zXhgdw01Z80UnSRmE-k9_2yT5sQeD3yQ7YdU",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4",
+        "name": "Lionne C. Whitfield",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4",
+        "position": "Career & Lifestyle Consultant | Personal Shopper | Luxury Sourcing Consultant 🇦🇪🇬🇧🌍",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHQDoF-D99SQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664768294179?e=1787788800&v=beta&t=PosMk191IXsK7lgKxMvCaVRfoEBt-7zEp4KXQGNy_Q4",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQHQDoF-D99SQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664768294179?e=1787788800&v=beta&t=PosMk191IXsK7lgKxMvCaVRfoEBt-7zEp4KXQGNy_Q4",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ",
+        "name": "Shimla Begum",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ",
+        "position": "Relationship Manager at Barclays Business UK"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM",
+        "name": "Naomi Dube",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM",
+        "position": "🌟Driving Innovation Through IT Consulting and Workforce Training 🔍 Delivering Tailored IT Solutions"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU",
+        "name": "Debbie Poole",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU",
+        "position": "Head of External Affairs & National Initiatives, Local Business at Barclays Bank"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI",
+        "name": "Tracy Namutamba",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI",
+        "position": "Relationship Director @ Barclays Corporate | Business Development, Strategy, Career Development, Colleague Engagement",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGLyJ6sFisxsQ/profile-displayphoto-crop_800_800/B4EZio.jo0HEAM-/0/1755181634825?e=1787788800&v=beta&t=w4Z-sAAes6-zlpTX_N1zQI62UCblEDX8VHreX8OFU18",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQGLyJ6sFisxsQ/profile-displayphoto-crop_800_800/B4EZio.jo0HEAM-/0/1755181634825?e=1787788800&v=beta&t=w4Z-sAAes6-zlpTX_N1zQI62UCblEDX8VHreX8OFU18",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g",
+        "name": "Roydel Webley",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g",
+        "position": "Supervisor plant technician Experienced landscaping and construction professional with 20+ years in horticulture and maintenance management.",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEp-2e6bbluTg/profile-displayphoto-crop_800_800/B4EZ19FKV4H0AI-/0/1775919999634?e=1787788800&v=beta&t=yf4Gh44DbRb1YtKDM57nVdASNXc30iQk2ImQu1ptYfs",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQEp-2e6bbluTg/profile-displayphoto-crop_800_800/B4EZ19FKV4H0AI-/0/1775919999634?e=1787788800&v=beta&t=yf4Gh44DbRb1YtKDM57nVdASNXc30iQk2ImQu1ptYfs",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs",
+        "name": "Chris Goodworth",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs",
+        "position": "Community Manager at IA Interior Architects",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFEzPh8gbMJpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725623292146?e=1787788800&v=beta&t=ezREJ4meKBO2ieTD11r-MleQ3uQU2hxtpM8zf0FQllY",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFEzPh8gbMJpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725623292146?e=1787788800&v=beta&t=ezREJ4meKBO2ieTD11r-MleQ3uQU2hxtpM8zf0FQllY",
+          "width": 433,
+          "height": 433
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg",
+        "name": "Yesim Smith",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg",
+        "position": "Charity Relationship Manager at Barclays | Passionate about social Impact & Youth empowerment | Youth Mentor | Solution-Focused Therapy | Soul Vibes London",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH_4rgTIozVrQ/profile-displayphoto-crop_800_800/B4EZ4tl2qIIAAI-/0/1778881360101?e=1787788800&v=beta&t=ILMZBj8SwlDi_CWb2NOAQCrLJJBC2h-TdpMuTCihdBM",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQH_4rgTIozVrQ/profile-displayphoto-crop_800_800/B4EZ4tl2qIIAAI-/0/1778881360101?e=1787788800&v=beta&t=ILMZBj8SwlDi_CWb2NOAQCrLJJBC2h-TdpMuTCihdBM",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU",
+        "name": "Alyan Hijazi",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU",
+        "position": "Senior Accountant | UK VAT, CIS & Year End Accounts | QuickBooks, Xero, Taxcal, Capium, Freeagent | ICMA",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHBQlJL-6lEEg/profile-displayphoto-crop_800_800/B4DZgfTQcUGQAM-/0/1752871800078?e=1787788800&v=beta&t=f8qUiQz6CxWqa92PQNfIRba9nQ3YX9gr7gKelyKyR5U",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQHBQlJL-6lEEg/profile-displayphoto-crop_800_800/B4DZgfTQcUGQAM-/0/1752871800078?e=1787788800&v=beta&t=f8qUiQz6CxWqa92PQNfIRba9nQ3YX9gr7gKelyKyR5U",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE",
+        "name": "Helena Begum",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE",
+        "position": "Regional Corporate Director at Worldpay. Payments and E-Commerce Specialist #paybylink #eccommerce #cardmachine #cardpayments #virtualterminal",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHLdw6vrmvHbw/profile-displayphoto-crop_800_800/B4EZy0XkH0HgAI-/0/1772552605717?e=1787788800&v=beta&t=S1W4mlQM5NQFW1SNI89_AZ66y77aA-222p6nn9gUCwU",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQHLdw6vrmvHbw/profile-displayphoto-crop_800_800/B4EZy0XkH0HgAI-/0/1772552605717?e=1787788800&v=beta&t=S1W4mlQM5NQFW1SNI89_AZ66y77aA-222p6nn9gUCwU",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw",
+        "name": "Manik Seth",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw",
+        "position": "Senior Associate Consultant @Infosys",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFPJlwdcC1Psw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732775352061?e=1787788800&v=beta&t=aSuRkerGYx8WugQDb0QWum8S67CFn538UY5CFW3tVdY",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQFPJlwdcC1Psw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732775352061?e=1787788800&v=beta&t=aSuRkerGYx8WugQDb0QWum8S67CFn538UY5CFW3tVdY",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0",
+        "name": "Josh Sussman",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0",
+        "position": "Sport Management (Honours) Graduate with First-Class Standing from Brock University",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQH4PtxK4PPmaA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1724183847998?e=1786586400&v=beta&t=mnhY1isPgBCNVy-jA6zkvZbuX0iYDTmeZiGAJG77lJk",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D5635AQH4PtxK4PPmaA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1724183847998?e=1786586400&v=beta&t=mnhY1isPgBCNVy-jA6zkvZbuX0iYDTmeZiGAJG77lJk",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs",
+        "name": "Fatima Sattar",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs",
+        "position": "Aspiring Graphic Designer | Learning in public & building my personal brand through design",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFBdbIYJBcipg/profile-displayphoto-crop_800_800/B4DZvQ.OiwJgAI-/0/1768737534281?e=1787788800&v=beta&t=N8toOTgcr6fVy7ZQ_wN3Jq8WwzOGMxnslDY0sgsoZ0U",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQFBdbIYJBcipg/profile-displayphoto-crop_800_800/B4DZvQ.OiwJgAI-/0/1768737534281?e=1787788800&v=beta&t=N8toOTgcr6fVy7ZQ_wN3Jq8WwzOGMxnslDY0sgsoZ0U",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s",
+        "name": "Rami khalilia",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s",
+        "position": "Strategic Partnership, PR ،International Relations, Aid & Projects Coordination، NGOs, INGOs, UN Agencies, Government Agencies, Humanitarian Development, Diplomatic Conferences, State of Palestine"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k",
+        "name": "Mubanga Kapeya",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k",
+        "position": "Business Relationship Manager - Charities & Community Organisations"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8",
+        "name": "Ahmet Hassan",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8",
+        "position": "Regional Leader, Business Banking",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGabF4_kngeDg/profile-displayphoto-crop_800_800/B4EZfVymglGcAI-/0/1751638502137?e=1787788800&v=beta&t=X6Rw07hCV9ch4-kEwxnqfwi--2nLF2j2jdG9L4R3fXQ",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQGabF4_kngeDg/profile-displayphoto-crop_800_800/B4EZfVymglGcAI-/0/1751638502137?e=1787788800&v=beta&t=X6Rw07hCV9ch4-kEwxnqfwi--2nLF2j2jdG9L4R3fXQ",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs",
+        "name": "Antonio Henry",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs",
+        "position": "Co-founder of Made CIC | Consultant | Specialist Youth Practitioner | Speaker | Investor",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH0f6W6Ke5u8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695673155798?e=1787788800&v=beta&t=QpmvfHTogpPQpNJc3nxMhaYZr2mUt7Ys2yu-WRMQO8o",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQH0f6W6Ke5u8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695673155798?e=1787788800&v=beta&t=QpmvfHTogpPQpNJc3nxMhaYZr2mUt7Ys2yu-WRMQO8o",
+          "width": 708,
+          "height": 708
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q",
+        "name": "Jas Sanghera",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q",
+        "position": "Business Banking Regional Leader - Central London @ Barclays UK",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFEzxyzkyJY6w/profile-displayphoto-crop_800_800/B4EZt78M7uJQAI-/0/1767310938625?e=1787788800&v=beta&t=aEZ7q-Hoshwz5OqupeAUx4mytKBUAJGcLI8azUVJwmI",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFEzxyzkyJY6w/profile-displayphoto-crop_800_800/B4EZt78M7uJQAI-/0/1767310938625?e=1787788800&v=beta&t=aEZ7q-Hoshwz5OqupeAUx4mytKBUAJGcLI8azUVJwmI",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY",
+        "name": "Caitlyn Cobley",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY",
+        "position": "Barclaycard Payment Specialist I Women in Sales Finalist (WISA Awards Europe) 2023",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH330AalguamA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702638782110?e=1787788800&v=beta&t=QWHG_8XUJpjJWp9s1_weB1ox6enxl_a4sVNCMtfsP4c",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQH330AalguamA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702638782110?e=1787788800&v=beta&t=QWHG_8XUJpjJWp9s1_weB1ox6enxl_a4sVNCMtfsP4c",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc",
+        "name": "AIMAN .",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc",
+        "position": "Crafting bold visuals through storytelling and design expertise.",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGurUVIMRld1w/profile-displayphoto-crop_800_800/B4DZ9bSKmqKsAI-/0/1783942917503?e=1787788800&v=beta&t=2IiJPN9vl_a1bHqAFDK_Mqlv39ZYVIdqQCJtqEyo5UY",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQGurUVIMRld1w/profile-displayphoto-crop_800_800/B4DZ9bSKmqKsAI-/0/1783942917503?e=1787788800&v=beta&t=2IiJPN9vl_a1bHqAFDK_Mqlv39ZYVIdqQCJtqEyo5UY",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4",
+        "name": "Vinod Nathani",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4",
+        "position": "Customer Care leader at Barclays",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG70pKSS4WiHA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1706444962326?e=1787788800&v=beta&t=IdowOjg7OVHRbFaNvl8q2m1qD4GnVoqL-xcxs2ffVN8",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQG70pKSS4WiHA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1706444962326?e=1787788800&v=beta&t=IdowOjg7OVHRbFaNvl8q2m1qD4GnVoqL-xcxs2ffVN8",
+          "width": 96,
+          "height": 96
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4",
+        "name": "Yasmin Ramadan, MA, MPP",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4",
+        "position": "Founder & CEO, AWWN & Narratique | AI Product & Strategic Communications Leader | Ex-USAGM · MBC · FCDO | Building Bilingual AI Platforms",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFxHPucrtaWkA/profile-displayphoto-crop_800_800/B4DZoZR1MXIkAI-/0/1761360696648?e=1787788800&v=beta&t=IjxxVNX_gu9y9VzCskcreA9tybhi7ASZbBBfIKHM45s",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQFxHPucrtaWkA/profile-displayphoto-crop_800_800/B4DZoZR1MXIkAI-/0/1761360696648?e=1787788800&v=beta&t=IjxxVNX_gu9y9VzCskcreA9tybhi7ASZbBBfIKHM45s",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI",
+        "name": "Dionne L.",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI",
+        "position": "Keynote Speaker & Chronic Illness Advocate | Senior Talent Associate | Human Resources | Champion for Women’s Empowerment",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGpwX3wPlWQPA/profile-displayphoto-shrink_800_800/B4EZWj7qLgH0Ac-/0/1742212080804?e=1787788800&v=beta&t=FWiZGRympFNeA7iIH946Mb7Il2SrGRcanta4kSonHWg",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQGpwX3wPlWQPA/profile-displayphoto-shrink_800_800/B4EZWj7qLgH0Ac-/0/1742212080804?e=1787788800&v=beta&t=FWiZGRympFNeA7iIH946Mb7Il2SrGRcanta4kSonHWg",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ",
+        "name": "Bukky M. Babajide MBE",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ",
+        "position": "Tech & Business Leader | Founder, Crystal Options & Female Techpreneur | Advancing Female Entrepreneurship Through Innovation, Capital Readiness & Ecosystem Building Across the UK & Africa",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEgEOYSHtqE6Q/profile-displayphoto-crop_800_800/B4EZ6CxeXvJAAM-/0/1780310471267?e=1787788800&v=beta&t=IvAogzPfVzJci2XKkCsWCB09KU93JvcyqRoW5vNrJKg",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQEgEOYSHtqE6Q/profile-displayphoto-crop_800_800/B4EZ6CxeXvJAAM-/0/1780310471267?e=1787788800&v=beta&t=IvAogzPfVzJci2XKkCsWCB09KU93JvcyqRoW5vNrJKg",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg",
+        "name": "AJ S.",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg",
+        "position": "Innovation Banking Leader, Supporting High-Growth, Venture-Backed Businesses | Faith Driven & Impact Investment | University Advisory Board Member"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ",
+        "name": "Natalie Taylor MD Acacia",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ",
+        "position": "MD of Acacia Management Facilities Ltd. Specialising in transforming spaces with nature & greenery. Passionate about business wellness through plant solutions / Founder of Acacia green spaces / British Library mentor 💫",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHR-uYDcxCzog/profile-displayphoto-crop_800_800/B4EZxL0yIHK8AM-/0/1770798655485?e=1787788800&v=beta&t=y46FAcbUo6h6kHJL_ZRfVvEcPp7kFkzJtftsSdEwm1o",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQHR-uYDcxCzog/profile-displayphoto-crop_800_800/B4EZxL0yIHK8AM-/0/1770798655485?e=1787788800&v=beta&t=y46FAcbUo6h6kHJL_ZRfVvEcPp7kFkzJtftsSdEwm1o",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc",
+        "name": "Farirai Gora, Bsc, Dip CII, CSPO",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc",
+        "position": "Reproductive compliance as a service| We-are-eden.com| Raising (S)EIS | Oxford Executive Leadership 2024 |",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEtoFVs5XDdvw/profile-displayphoto-crop_800_800/B4EZzfXLBpHYAI-/0/1773273920367?e=1787788800&v=beta&t=aeBxntRwdaevLSid9U0xszwuNFuV2V-SW3iO3Apiijo",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQEtoFVs5XDdvw/profile-displayphoto-crop_800_800/B4EZzfXLBpHYAI-/0/1773273920367?e=1787788800&v=beta&t=aeBxntRwdaevLSid9U0xszwuNFuV2V-SW3iO3Apiijo",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8",
+        "name": "Georgelene Elliott",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8",
+        "position": "Behavioural Science Adviser, Cabinet Office | Founder of Black Blood Matters",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFNNGuFluRGzQ/profile-displayphoto-crop_800_800/B4EZ.3vfQvH8AI-/0/1785494107920?e=1787788800&v=beta&t=pb0cuQjDu3jGN7twJTUzPq5g1CSHszNAkmbnG6FSZGE",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFNNGuFluRGzQ/profile-displayphoto-crop_800_800/B4EZ.3vfQvH8AI-/0/1785494107920?e=1787788800&v=beta&t=pb0cuQjDu3jGN7twJTUzPq5g1CSHszNAkmbnG6FSZGE",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "PRAISE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU",
+        "name": "Gurprit Dhaliwal",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU",
+        "position": "Business Manager",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG7XJG8Xp3ZNA/profile-displayphoto-crop_800_800/B4EZfMTBz8GwAU-/0/1751479231429?e=1787788800&v=beta&t=9hAMPRk-dZdvrzArDayANsqps87yLW3tjkqj5tN0bos",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQG7XJG8Xp3ZNA/profile-displayphoto-crop_800_800/B4EZfMTBz8GwAU-/0/1751479231429?e=1787788800&v=beta&t=9hAMPRk-dZdvrzArDayANsqps87yLW3tjkqj5tN0bos",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "APPRECIATION",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU",
+        "name": "Joanna Smykla",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU",
+        "position": "Business Relationship Manager AVP at Central London Specialists Industries",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzgRyCwjX39g/profile-displayphoto-crop_800_800/B4EZ5cdE41K4AI-/0/1779667587257?e=1787788800&v=beta&t=GYO7izKiC16z4ljgn9W44Rs0AgCpvPZhKQPKFnhKJ74",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQGzgRyCwjX39g/profile-displayphoto-crop_800_800/B4EZ5cdE41K4AI-/0/1779667587257?e=1787788800&v=beta&t=GYO7izKiC16z4ljgn9W44Rs0AgCpvPZhKQPKFnhKJ74",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg",
+        "name": "Hiroko Washiyama",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg",
+        "position": "Insurance, GenAI & Digital Finance Research | Writer & Speaker | Japan–Europe",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHiJCDJdkBncg/profile-displayphoto-crop_800_800/B56ZqxCUsyKsAI-/0/1763906768790?e=1787788800&v=beta&t=X6M2uDZgXc8vbsrEGC-nxnzktQzxuAt86nefQy6wjgI",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQHiJCDJdkBncg/profile-displayphoto-crop_800_800/B56ZqxCUsyKsAI-/0/1763906768790?e=1787788800&v=beta&t=X6M2uDZgXc8vbsrEGC-nxnzktQzxuAt86nefQy6wjgI",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns",
+        "name": "Natalie Ojevah MBE",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns",
+        "position": "Strategy & Innovation Leader | Growth, Partnerships & Programmes | Vice President, Financial Services | Award Winning Inclusion Advocate"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k",
+        "name": "Sophia Raja",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k",
+        "position": "Local Specialist for Barclays Central London"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc",
+        "name": "Rees Davis-Campbell BA hons",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc",
+        "position": "IoD Aspiring Director of the Year 2025 | Founder & CEO, Bee N Spired | Keynote Speaker on Leadership, Resilience & Systems Change",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFkY0bhNLBneQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713611807234?e=1787788800&v=beta&t=kzwbYuBNEg7wDfqKQuiQ5TOCdB515Kr62DwkV4lBxUA",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFkY0bhNLBneQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713611807234?e=1787788800&v=beta&t=kzwbYuBNEg7wDfqKQuiQ5TOCdB515Kr62DwkV4lBxUA",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "EMPATHY",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA",
+        "name": "Isya Hanif",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA",
+        "position": "Barclays Relationship Director & Women in Business Ambassador - London",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE0v2Xqisv5mg/profile-displayphoto-crop_800_800/B4EZujp4eOHAAI-/0/1767977226358?e=1787788800&v=beta&t=DSPf8KH6BRvMq5RAqlx95KZHBe_JWQ66DVUxhBZgrqk",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQE0v2Xqisv5mg/profile-displayphoto-crop_800_800/B4EZujp4eOHAAI-/0/1767977226358?e=1787788800&v=beta&t=DSPf8KH6BRvMq5RAqlx95KZHBe_JWQ66DVUxhBZgrqk",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ",
+        "name": "Deepti Bhalla",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ",
+        "position": "Relationship Development Manager | Winner of The Charitable Queen of the Year Award London 2025 | Winner of Exceptional Achievement Award 2025 | Finalist for Women In Sales Awards Europe (WISA)2025",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHTNC7d7QYkEw/profile-displayphoto-crop_800_800/B4EZu85GYqKgAI-/0/1768400645275?e=1787788800&v=beta&t=xpkeybiF5FoRyjWP9fAtrKmSkKou5wM4CiZleu60_3A",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQHTNC7d7QYkEw/profile-displayphoto-crop_800_800/B4EZu85GYqKgAI-/0/1768400645275?e=1787788800&v=beta&t=xpkeybiF5FoRyjWP9fAtrKmSkKou5wM4CiZleu60_3A",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "APPRECIATION",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw",
+        "name": "Jahran Allen-Thompson",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw",
+        "position": "Public-Sector Systems Leader | High-Stakes Operations & Governance | Hon. Lecturer | Speaker on Leadership Under Pressure, Neurodivergent Systems Thinking & Responsible AI",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEyTYW5jzAw-w/profile-displayphoto-shrink_800_800/B4EZXTPWp2HcAc-/0/1743005778357?e=1787788800&v=beta&t=7hF1RRVJu7xj2kNQde0yfg8T162s3qTAA8TrX-f_S7s",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQEyTYW5jzAw-w/profile-displayphoto-shrink_800_800/B4EZXTPWp2HcAc-/0/1743005778357?e=1787788800&v=beta&t=7hF1RRVJu7xj2kNQde0yfg8T162s3qTAA8TrX-f_S7s",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU",
+        "name": "Hannah Spence",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU",
+        "position": "Miss Be Seen 👩🏾‍💻 Award-Winning Visibility Strategist Helping 1000s of Underrepresented Professionals Become Visible & In-Demand Online | Social Media Educator of the Year 🏆 | Keynote Speaker | Message me “SEEN”",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH8izdRHCSUTQ/profile-displayphoto-crop_800_800/B4EZ4IIdAvKIAI-/0/1778252894941?e=1787788800&v=beta&t=PAZVT1btwVLn-BM4yq4IQUOeHuHIJCnafcdLxn0FV4Y",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQH8izdRHCSUTQ/profile-displayphoto-crop_800_800/B4EZ4IIdAvKIAI-/0/1778252894941?e=1787788800&v=beta&t=PAZVT1btwVLn-BM4yq4IQUOeHuHIJCnafcdLxn0FV4Y",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs",
+        "name": "Lee Baker",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs",
+        "position": "Shimmer Scent"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ",
+        "name": "Sara Hobbs",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ",
+        "position": "Relationship Development Manager London Growth Team"
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI",
+        "name": "Shakira Taylor",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI",
+        "position": "Wellbeing Expert specialising in Women’s Health. Speaker, Host & Fitness Instructor. Passionate about providing solutions for workplace wellbeing.",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQElnJ7TJXXM6Q/profile-displayphoto-crop_800_800/B4DZnuQKeOKsAI-/0/1760638840466?e=1787788800&v=beta&t=ZZ1iMfL19GtKRUdFzfkCpIZjnjZSGtMWIPCHQfk9qus",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQElnJ7TJXXM6Q/profile-displayphoto-crop_800_800/B4DZnuQKeOKsAI-/0/1760638840466?e=1787788800&v=beta&t=ZZ1iMfL19GtKRUdFzfkCpIZjnjZSGtMWIPCHQfk9qus",
+          "width": 800,
+          "height": 800
+        }
+      }
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ,urn:li:activity:7469741789093072896,0)",
+      "reactionType": "LIKE",
+      "postId": "urn:li:activity:7469741789093072896",
+      "actor": {
+        "id": "ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ",
+        "name": "Sunny Vaidya",
+        "linkedinUrl": "https://www.linkedin.com/in/ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ",
+        "position": "Assistant Vice President - Business Relationship Manager at Barclays",
+        "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGMuFkYaU7_bQ/profile-displayphoto-crop_800_800/B4EZrj0X.2IIAI-/0/1764758750375?e=1787788800&v=beta&t=RWmsQrMs56Tpz0vGr6mpj0Rh4ni9Q6mv_bHsNBgnTKU",
+        "picture": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQGMuFkYaU7_bQ/profile-displayphoto-crop_800_800/B4EZrj0X.2IIAI-/0/1764758750375?e=1787788800&v=beta&t=RWmsQrMs56Tpz0vGr6mpj0Rh4ni9Q6mv_bHsNBgnTKU",
+          "width": 800,
+          "height": 800
+        }
+      }
+    }
+  ],
+  "counts": {
+    "commentsCollected": 3,
+    "reactionsCollected": 45
+  }
+}

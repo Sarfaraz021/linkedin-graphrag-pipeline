@@ -174,5 +174,137 @@
     "fetchedReactions": true,
     "reactionsCapUsed": 0,
     "reactionsCollected": 286
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470080257358852096/": {
+    "postId": "7470080257358852096",
+    "scrapedAt": "2026-08-05T22:10:18.353453+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 28,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 275
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470122335853920256/": {
+    "postId": "7470122335853920256",
+    "scrapedAt": "2026-08-05T22:57:33.002886+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 9,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 215
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7470127369190608897/": {
+    "postId": "7470127369190608897",
+    "scrapedAt": "2026-08-05T23:03:48.519012+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 1,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 45
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7462161901226201088/": {
+    "postId": "7462161901226201088",
+    "scrapedAt": "2026-08-06T00:10:25.599583+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 86,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 352
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7463506195346026497/": {
+    "postId": "7463506195346026497",
+    "scrapedAt": "2026-08-06T00:23:32.979683+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 9,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 87
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469717888950685697/": {
+    "postId": "7469717888950685697",
+    "scrapedAt": "2026-08-06T00:36:19.994079+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 6,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 59
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469773229067423744/": {
+    "postId": "7469773229067423744",
+    "scrapedAt": "2026-08-06T00:45:25.849134+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 7,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 58
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469769030891909120/": {
+    "postId": "7469769030891909120",
+    "scrapedAt": "2026-08-06T00:55:34.928845+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 5,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 62
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469832921890234369/": {
+    "postId": "7469832921890234369",
+    "scrapedAt": "2026-08-06T01:26:36.790900+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 8,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 187
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469752326434615296/": {
+    "postId": "7469752326434615296",
+    "scrapedAt": "2026-08-06T01:46:15.627597+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 14,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 113
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896/": {
+    "postId": "7469741789093072896",
+    "scrapedAt": "2026-08-06T01:52:42.727477+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 3,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 45
+  },
+  "https://www.linkedin.com/feed/update/urn:li:activity:7469633486455431168/": {
+    "postId": "7469633486455431168",
+    "scrapedAt": "2026-08-06T02:02:50.554681+00:00",
+    "fetchedPost": true,
+    "fetchedComments": true,
+    "commentsCapUsed": 0,
+    "commentsCollected": 4,
+    "fetchedReactions": true,
+    "reactionsCapUsed": 0,
+    "reactionsCollected": 85
   }
 }

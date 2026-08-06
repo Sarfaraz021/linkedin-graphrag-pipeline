@@ -1,0 +1,1023 @@
+{
+  "schemaVersion": "1.0",
+  "post": {
+    "id": "7469741789093072896",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896/",
+    "shareUrl": "https://www.linkedin.com/posts/sabrina-jarrett-01334084_really-excited-about-this-event-next-week-activity-7469741789093072896-qydx?",
+    "postedAt": "2026-06-08T13:27:03.611Z",
+    "content": "Really excited about this event next week; \nThis upcoming event is focused on the beauty industry - a sector that continues to show incredible growth, innovation and resilience. \nWhilst our women in business events haven’t been industry specific before, I’m looking forward to bringing together professionals from this space to share insights, opportunities and perspectives on what’s driving success. \nThe beauty sector is evolving rapidly and it’s an exciting time to support businesses navigating that growth. \n\nLooking forward to welcoming everyone. Check out the comments to sign up.",
+    "images": [
+      "https://media.licdn.com/dms/image/v2/D4E22AQGkn1k-pIiP4A/feedshare-shrink_1280/B4EZ6nak1CKcAQ-/0/1780925222567?e=1787788800&v=beta&t=TsuHd0KHPitpYEKeTMiONAT3FTMGUcYt7rHF1iLrBKo"
+    ],
+    "mentions": [],
+    "authorId": "ACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg",
+    "engagement": {
+      "reactionsTotal": 45,
+      "commentsTotal": 3,
+      "sharesTotal": 1,
+      "reactionBreakdown": {
+        "LIKE": 34,
+        "EMPATHY": 8,
+        "APPRECIATION": 2,
+        "PRAISE": 1
+      }
+    }
+  },
+  "people": {
+    "ACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg": {
+      "id": "ACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg",
+      "name": "Sabrina Jarrett",
+      "headline": "Business Relationship Manager @ Barclays | Commercial Lending",
+      "url": "https://www.linkedin.com/in/sabrina-jarrett-01334084",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHE-jFk7_UmNw/profile-displayphoto-shrink_800_800/B4EZWJ5O4DHMAc-/0/1741775238500?e=1787788800&v=beta&t=UVOi7AMLGaNOcmd4NrXUJBf80x8-panjVOdUcqhgITY",
+      "roles": [
+        "author",
+        "commenter"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Bright Boroughs",
+      "connectionsCount": 2112,
+      "followerCount": 2510,
+      "openToWork": false
+    },
+    "ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM": {
+      "id": "ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM",
+      "name": "Naomi Dube",
+      "headline": "🌟Driving Innovation Through IT Consulting and Workforce Training\n\n\n🔍 Delivering Tailored IT Solutions",
+      "url": "https://www.linkedin.com/in/naomi-dube-16889022",
+      "avatarUrl": null,
+      "roles": [
+        "commenter",
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Montgomery Coaching and Consultancy",
+      "connectionsCount": 952,
+      "followerCount": 929,
+      "openToWork": false
+    },
+    "ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU": {
+      "id": "ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU",
+      "name": "Hannah Spence",
+      "headline": "Miss Be Seen 👩🏾‍💻 Award-Winning Visibility Strategist Helping 1000s of Underrepresented Professionals Become Visible & In-Demand Online | Social Media Educator of the Year 🏆 | Keynote Speaker | Message me “SEEN”",
+      "url": "https://www.linkedin.com/in/hannahespence",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH8izdRHCSUTQ/profile-displayphoto-crop_800_800/B4EZ4IIdAvKIAI-/0/1778252894941?e=1787788800&v=beta&t=PAZVT1btwVLn-BM4yq4IQUOeHuHIJCnafcdLxn0FV4Y",
+      "roles": [
+        "commenter",
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Clockflower Solutions",
+      "connectionsCount": 5573,
+      "followerCount": 6415,
+      "openToWork": false
+    },
+    "ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY": {
+      "id": "ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY",
+      "name": "Hyesha Kaur",
+      "headline": "Co-Founder | Pharmacist Prescriber | Entrepreneur |   Content Creator | Helping Individuals & Organisations Prioritise Health & Wellbeing | Featured in Forbes",
+      "url": "https://www.linkedin.com/in/hyesha-kaur-01a67b5a",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "Birmingham, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Healfinity",
+      "connectionsCount": 309,
+      "followerCount": 308,
+      "openToWork": false
+    },
+    "ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME": {
+      "id": "ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME",
+      "name": "Maxine Los MSCI",
+      "headline": "Private Banker at Barclays Private Bank",
+      "url": "https://www.linkedin.com/in/maxinelos",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays Private Bank",
+      "connectionsCount": 592,
+      "followerCount": 605,
+      "openToWork": false
+    },
+    "ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU": {
+      "id": "ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU",
+      "name": "Hollie Greenaway",
+      "headline": "Empowering founders to grow, scale & raise 🚀 Eagle Labs🦅 🧪 ",
+      "url": "https://www.linkedin.com/in/hollie-greenaway-7260a453",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGQ6flgym0fuw/profile-displayphoto-crop_800_800/B4EZ8AQ_PlIwAM-/0/1782415882021?e=1787788800&v=beta&t=kJd8S49zXhgdw01Z80UnSRmE-k9_2yT5sQeD3yQ7YdU",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays",
+      "connectionsCount": 1347,
+      "followerCount": 1627,
+      "openToWork": false
+    },
+    "ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4": {
+      "id": "ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4",
+      "name": "Lionne C. Whitfield",
+      "headline": "Career & Lifestyle Consultant | Personal Shopper | Luxury Sourcing Consultant 🇦🇪🇬🇧🌍",
+      "url": "https://www.linkedin.com/in/lionnecwhitfield",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHQDoF-D99SQw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664768294179?e=1787788800&v=beta&t=PosMk191IXsK7lgKxMvCaVRfoEBt-7zEp4KXQGNy_Q4",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "country": "United Arab Emirates",
+      "currentCompany": "The Lifestyle Concierge",
+      "connectionsCount": 3585,
+      "followerCount": 4089,
+      "openToWork": false
+    },
+    "ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ": {
+      "id": "ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ",
+      "name": "Shimla Begum",
+      "headline": "Relationship Manager at Barclays Business UK",
+      "url": "https://www.linkedin.com/in/shimla-begum-88b756180",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 1142,
+      "followerCount": 1172,
+      "openToWork": false
+    },
+    "ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU": {
+      "id": "ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU",
+      "name": "Debbie Poole",
+      "headline": "Head of External Affairs & National Initiatives, Local Business at Barclays Bank",
+      "url": "https://www.linkedin.com/in/debbie-poole-10545617",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "Coventry, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays Clearlybusiness",
+      "connectionsCount": 247,
+      "followerCount": 255,
+      "openToWork": false
+    },
+    "ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI": {
+      "id": "ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI",
+      "name": "Tracy Namutamba",
+      "headline": "Relationship Director @ Barclays Corporate | Business Development, Strategy, Career Development, Colleague Engagement ",
+      "url": "https://www.linkedin.com/in/tracy-namutamba-55780112b",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGLyJ6sFisxsQ/profile-displayphoto-crop_800_800/B4EZio.jo0HEAM-/0/1755181634825?e=1787788800&v=beta&t=w4Z-sAAes6-zlpTX_N1zQI62UCblEDX8VHreX8OFU18",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays Corporate Banking",
+      "connectionsCount": 1099,
+      "followerCount": 1125,
+      "openToWork": false
+    },
+    "ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g": {
+      "id": "ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g",
+      "name": "Roydel Webley",
+      "headline": "Supervisor plant technician \nExperienced landscaping and construction professional with 20+ years in horticulture and maintenance management.",
+      "url": "https://www.linkedin.com/in/roydel-webley-6ab465238",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEp-2e6bbluTg/profile-displayphoto-crop_800_800/B4EZ19FKV4H0AI-/0/1775919999634?e=1787788800&v=beta&t=yf4Gh44DbRb1YtKDM57nVdASNXc30iQk2ImQu1ptYfs",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Acacia Green Spaces CIC",
+      "connectionsCount": 1932,
+      "followerCount": 1943,
+      "openToWork": false
+    },
+    "ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs": {
+      "id": "ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs",
+      "name": "Chris Goodworth",
+      "headline": "Community Manager at IA Interior Architects",
+      "url": "https://www.linkedin.com/in/chris-goodworth-76729981",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFEzPh8gbMJpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725623292146?e=1787788800&v=beta&t=ezREJ4meKBO2ieTD11r-MleQ3uQU2hxtpM8zf0FQllY",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "IA Interior Architects",
+      "connectionsCount": 5762,
+      "followerCount": 5843,
+      "openToWork": false
+    },
+    "ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg": {
+      "id": "ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg",
+      "name": "Yesim Smith",
+      "headline": "Charity Relationship Manager at Barclays | Passionate about social Impact & Youth empowerment | Youth Mentor | Solution-Focused Therapy | Soul Vibes London",
+      "url": "https://www.linkedin.com/in/yesim-smith-5398ba170",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH_4rgTIozVrQ/profile-displayphoto-crop_800_800/B4EZ4tl2qIIAAI-/0/1778881360101?e=1787788800&v=beta&t=ILMZBj8SwlDi_CWb2NOAQCrLJJBC2h-TdpMuTCihdBM",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Enfield Town, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays",
+      "connectionsCount": 636,
+      "followerCount": 665,
+      "openToWork": false
+    },
+    "ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU": {
+      "id": "ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU",
+      "name": "Alyan Hijazi",
+      "headline": "Senior Accountant | UK VAT, CIS & Year End Accounts | QuickBooks, Xero, Taxcal, Capium, Freeagent | ICMA",
+      "url": "https://www.linkedin.com/in/alyan-hijazi-775008201",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHBQlJL-6lEEg/profile-displayphoto-crop_800_800/B4DZgfTQcUGQAM-/0/1752871800078?e=1787788800&v=beta&t=f8qUiQz6CxWqa92PQNfIRba9nQ3YX9gr7gKelyKyR5U",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Islamabad, Pakistan",
+      "country": "Pakistan",
+      "connectionsCount": 1365,
+      "followerCount": 1370,
+      "openToWork": false
+    },
+    "ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE": {
+      "id": "ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE",
+      "name": "Helena Begum",
+      "headline": "Regional Corporate Director at Worldpay. Payments and E-Commerce Specialist #paybylink #eccommerce #cardmachine #cardpayments #virtualterminal",
+      "url": "https://www.linkedin.com/in/helena-begum-402765171",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHLdw6vrmvHbw/profile-displayphoto-crop_800_800/B4EZy0XkH0HgAI-/0/1772552605717?e=1787788800&v=beta&t=S1W4mlQM5NQFW1SNI89_AZ66y77aA-222p6nn9gUCwU",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Worldpay",
+      "connectionsCount": 1618,
+      "followerCount": 1629,
+      "openToWork": false
+    },
+    "ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw": {
+      "id": "ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw",
+      "name": "Manik Seth",
+      "headline": "Senior Associate Consultant @Infosys",
+      "url": "https://www.linkedin.com/in/manikseth",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D5603AQFPJlwdcC1Psw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732775352061?e=1787788800&v=beta&t=aSuRkerGYx8WugQDb0QWum8S67CFn538UY5CFW3tVdY",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Pune, India",
+      "country": "India",
+      "currentCompany": "Infosys",
+      "connectionsCount": 4315,
+      "followerCount": 4308,
+      "openToWork": false
+    },
+    "ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0": {
+      "id": "ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0",
+      "name": "Josh Sussman",
+      "headline": "Sport Management (Honours) Graduate with First-Class Standing from Brock University",
+      "url": "https://www.linkedin.com/in/josh05",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D5635AQH4PtxK4PPmaA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1724183847998?e=1786586400&v=beta&t=mnhY1isPgBCNVy-jA6zkvZbuX0iYDTmeZiGAJG77lJk",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Vancouver, Canada",
+      "country": "Canada",
+      "currentCompany": "Vancouver Rise FC",
+      "connectionsCount": 4888,
+      "followerCount": 4881,
+      "openToWork": true
+    },
+    "ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs": {
+      "id": "ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs",
+      "name": "Fatima Sattar",
+      "headline": "Aspiring Graphic Designer | Learning in public & building my personal brand through design",
+      "url": "https://www.linkedin.com/in/fatima-sattar-78ab4b3a6",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFBdbIYJBcipg/profile-displayphoto-crop_800_800/B4DZvQ.OiwJgAI-/0/1768737534281?e=1787788800&v=beta&t=N8toOTgcr6fVy7ZQ_wN3Jq8WwzOGMxnslDY0sgsoZ0U",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Karak, Pakistan",
+      "country": "Pakistan",
+      "connectionsCount": 257,
+      "followerCount": 261,
+      "openToWork": false
+    },
+    "ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s": {
+      "id": "ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s",
+      "name": "Rami khalilia",
+      "headline": "Strategic Partnership, PR ،International Relations, Aid & Projects Coordination، NGOs, INGOs, UN Agencies, Government Agencies, Humanitarian Development, Diplomatic Conferences,   State of Palestine",
+      "url": "https://www.linkedin.com/in/rami-kh",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "State of Palestine",
+      "country": "State of Palestine",
+      "currentCompany": "CFJ Center for Freedom & Justice",
+      "connectionsCount": 5941,
+      "followerCount": 6799,
+      "openToWork": false
+    },
+    "ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k": {
+      "id": "ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k",
+      "name": "Mubanga Kapeya",
+      "headline": "Business Relationship Manager - Charities & Community Organisations ",
+      "url": "https://www.linkedin.com/in/mubanga-kapeya-108930100",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "Manchester, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays",
+      "connectionsCount": 317,
+      "followerCount": 315,
+      "openToWork": false
+    },
+    "ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8": {
+      "id": "ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8",
+      "name": "Ahmet Hassan",
+      "headline": "Regional Leader, Business Banking",
+      "url": "https://www.linkedin.com/in/ahmet-hassan",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGabF4_kngeDg/profile-displayphoto-crop_800_800/B4EZfVymglGcAI-/0/1751638502137?e=1787788800&v=beta&t=X6Rw07hCV9ch4-kEwxnqfwi--2nLF2j2jdG9L4R3fXQ",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 886,
+      "followerCount": 889,
+      "openToWork": false
+    },
+    "ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs": {
+      "id": "ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs",
+      "name": "Antonio Henry",
+      "headline": "Co-founder of Made CIC  |  Consultant  |  Specialist Youth Practitioner  | Speaker  |  Investor",
+      "url": "https://www.linkedin.com/in/mrantoniohenry",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH0f6W6Ke5u8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695673155798?e=1787788800&v=beta&t=QpmvfHTogpPQpNJc3nxMhaYZr2mUt7Ys2yu-WRMQO8o",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Birmingham, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "MADE CIC",
+      "connectionsCount": 2247,
+      "followerCount": 2310,
+      "openToWork": false
+    },
+    "ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q": {
+      "id": "ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q",
+      "name": "Jas Sanghera",
+      "headline": "Business Banking Regional Leader - Central London @ Barclays UK ",
+      "url": "https://www.linkedin.com/in/jas-sanghera-a44b0242",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFEzxyzkyJY6w/profile-displayphoto-crop_800_800/B4EZt78M7uJQAI-/0/1767310938625?e=1787788800&v=beta&t=aEZ7q-Hoshwz5OqupeAUx4mytKBUAJGcLI8azUVJwmI",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 694,
+      "followerCount": 729,
+      "openToWork": false
+    },
+    "ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY": {
+      "id": "ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY",
+      "name": "Caitlyn Cobley",
+      "headline": "Barclaycard Payment Specialist I Women in Sales Finalist (WISA Awards Europe) 2023",
+      "url": "https://www.linkedin.com/in/caitlyn-cobley-600684169",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH330AalguamA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702638782110?e=1787788800&v=beta&t=QWHG_8XUJpjJWp9s1_weB1ox6enxl_a4sVNCMtfsP4c",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclaycard",
+      "connectionsCount": 258,
+      "followerCount": 261,
+      "openToWork": false
+    },
+    "ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc": {
+      "id": "ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc",
+      "name": "AIMAN .",
+      "headline": "Crafting bold visuals through storytelling and design expertise.",
+      "url": "https://www.linkedin.com/in/aimed-graphic-designer",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGurUVIMRld1w/profile-displayphoto-crop_800_800/B4DZ9bSKmqKsAI-/0/1783942917503?e=1787788800&v=beta&t=2IiJPN9vl_a1bHqAFDK_Mqlv39ZYVIdqQCJtqEyo5UY",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Rawalpindi, Pakistan",
+      "country": "Pakistan",
+      "currentCompany": "AIMÉD CORNER",
+      "connectionsCount": 12181,
+      "followerCount": 17506,
+      "openToWork": false
+    },
+    "ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4": {
+      "id": "ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4",
+      "name": "Vinod Nathani",
+      "headline": "Customer Care leader at Barclays",
+      "url": "https://www.linkedin.com/in/vinod-nathani-93807b2b1",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG70pKSS4WiHA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1706444962326?e=1787788800&v=beta&t=IdowOjg7OVHRbFaNvl8q2m1qD4GnVoqL-xcxs2ffVN8",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Delhi, India",
+      "country": "India",
+      "connectionsCount": 57,
+      "followerCount": 58,
+      "openToWork": false
+    },
+    "ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4": {
+      "id": "ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4",
+      "name": "Yasmin Ramadan, MA, MPP",
+      "headline": "Founder & CEO, AWWN & Narratique | AI Product & Strategic Communications Leader | Ex-USAGM · MBC · FCDO | Building Bilingual AI Platforms",
+      "url": "https://www.linkedin.com/in/yasmin-ramadan-ma-mpp-a753b715",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFxHPucrtaWkA/profile-displayphoto-crop_800_800/B4DZoZR1MXIkAI-/0/1761360696648?e=1787788800&v=beta&t=IjxxVNX_gu9y9VzCskcreA9tybhi7ASZbBBfIKHM45s",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "AWWN (Arab Women Wellbeing Network)",
+      "connectionsCount": 3456,
+      "followerCount": 3707,
+      "openToWork": false
+    },
+    "ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI": {
+      "id": "ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI",
+      "name": "Dionne L.",
+      "headline": "Keynote Speaker & Chronic Illness Advocate | Senior Talent Associate | Human Resources | Champion for Women’s Empowerment",
+      "url": "https://www.linkedin.com/in/dionneroselongmore",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGpwX3wPlWQPA/profile-displayphoto-shrink_800_800/B4EZWj7qLgH0Ac-/0/1742212080804?e=1787788800&v=beta&t=FWiZGRympFNeA7iIH946Mb7Il2SrGRcanta4kSonHWg",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Montagu",
+      "connectionsCount": 894,
+      "followerCount": 928,
+      "openToWork": false
+    },
+    "ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ": {
+      "id": "ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ",
+      "name": "Bukky M. Babajide MBE",
+      "headline": "Tech & Business Leader | Founder, Crystal Options & Female Techpreneur | Advancing Female Entrepreneurship Through Innovation, Capital Readiness & Ecosystem Building Across the UK & Africa",
+      "url": "https://www.linkedin.com/in/bmbabajide",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEgEOYSHtqE6Q/profile-displayphoto-crop_800_800/B4EZ6CxeXvJAAM-/0/1780310471267?e=1787788800&v=beta&t=IvAogzPfVzJci2XKkCsWCB09KU93JvcyqRoW5vNrJKg",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Milton Keynes, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Female Techpreneur",
+      "connectionsCount": 4031,
+      "followerCount": 5200,
+      "openToWork": false
+    },
+    "ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg": {
+      "id": "ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg",
+      "name": "AJ S.",
+      "headline": "Innovation Banking Leader, Supporting High-Growth, Venture-Backed Businesses | Faith Driven & Impact Investment  | University Advisory Board Member",
+      "url": "https://www.linkedin.com/in/aj-s-a05367a",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "York St. John University",
+      "connectionsCount": 1239,
+      "followerCount": 1242,
+      "openToWork": false
+    },
+    "ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ": {
+      "id": "ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ",
+      "name": "Natalie Taylor MD Acacia",
+      "headline": "MD of Acacia Management Facilities Ltd. Specialising in transforming spaces with nature & greenery. Passionate about business wellness through plant solutions / Founder of Acacia green spaces / British Library mentor 💫",
+      "url": "https://www.linkedin.com/in/acacialandscapes",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHR-uYDcxCzog/profile-displayphoto-crop_800_800/B4EZxL0yIHK8AM-/0/1770798655485?e=1787788800&v=beta&t=y46FAcbUo6h6kHJL_ZRfVvEcPp7kFkzJtftsSdEwm1o",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Acacia management facilities ltd",
+      "connectionsCount": 13736,
+      "followerCount": 14242,
+      "openToWork": false
+    },
+    "ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc": {
+      "id": "ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc",
+      "name": "Farirai Gora, Bsc, Dip CII, CSPO",
+      "headline": "Reproductive compliance as a service| We-are-eden.com| Raising (S)EIS | Oxford Executive Leadership 2024 |",
+      "url": "https://www.linkedin.com/in/fariraigora",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEtoFVs5XDdvw/profile-displayphoto-crop_800_800/B4EZzfXLBpHYAI-/0/1773273920367?e=1787788800&v=beta&t=aeBxntRwdaevLSid9U0xszwuNFuV2V-SW3iO3Apiijo",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "We are Eden",
+      "connectionsCount": 6153,
+      "followerCount": 6308,
+      "openToWork": false
+    },
+    "ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8": {
+      "id": "ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8",
+      "name": "Georgelene Elliott",
+      "headline": "Behavioural Science Adviser, Cabinet Office | Founder of Black Blood Matters",
+      "url": "https://www.linkedin.com/in/georgelene-elliott",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFNNGuFluRGzQ/profile-displayphoto-crop_800_800/B4EZ.3vfQvH8AI-/0/1785494107920?e=1787788800&v=beta&t=pb0cuQjDu3jGN7twJTUzPq5g1CSHszNAkmbnG6FSZGE",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Cabinet Office",
+      "connectionsCount": 865,
+      "followerCount": 907,
+      "openToWork": false
+    },
+    "ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU": {
+      "id": "ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU",
+      "name": "Gurprit Dhaliwal",
+      "headline": "Business Manager",
+      "url": "https://www.linkedin.com/in/gurprit-dhaliwal-9398a53b",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG7XJG8Xp3ZNA/profile-displayphoto-crop_800_800/B4EZfMTBz8GwAU-/0/1751479231429?e=1787788800&v=beta&t=9hAMPRk-dZdvrzArDayANsqps87yLW3tjkqj5tN0bos",
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays",
+      "connectionsCount": 471,
+      "followerCount": 486,
+      "openToWork": false
+    },
+    "ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU": {
+      "id": "ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU",
+      "name": "Joanna Smykla",
+      "headline": "Business Relationship Manager AVP at Central London Specialists Industries",
+      "url": "https://www.linkedin.com/in/joanna-smykla-a2a96a118",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGzgRyCwjX39g/profile-displayphoto-crop_800_800/B4EZ5cdE41K4AI-/0/1779667587257?e=1787788800&v=beta&t=GYO7izKiC16z4ljgn9W44Rs0AgCpvPZhKQPKFnhKJ74",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays Corporate Banking",
+      "connectionsCount": 702,
+      "followerCount": 750,
+      "openToWork": false
+    },
+    "ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg": {
+      "id": "ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg",
+      "name": "Hiroko Washiyama",
+      "headline": "Insurance, GenAI & Digital Finance Research | Writer & Speaker | Japan–Europe",
+      "url": "https://www.linkedin.com/in/hiroko-washiyama-2a5283170",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D5603AQHiJCDJdkBncg/profile-displayphoto-crop_800_800/B56ZqxCUsyKsAI-/0/1763906768790?e=1787788800&v=beta&t=X6M2uDZgXc8vbsrEGC-nxnzktQzxuAt86nefQy6wjgI",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Germany",
+      "country": "Germany",
+      "currentCompany": "Asia Pacific Financial Forum (APFF)",
+      "connectionsCount": 11996,
+      "followerCount": 48786,
+      "openToWork": false
+    },
+    "ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns": {
+      "id": "ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns",
+      "name": "Natalie Ojevah MBE",
+      "headline": "Strategy & Innovation Leader | Growth, Partnerships & Programmes | Vice President, Financial Services | Award Winning Inclusion Advocate ",
+      "url": "https://www.linkedin.com/in/natalie-ojevah-mbe-497b2b7a",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 3379,
+      "followerCount": 7376,
+      "openToWork": false
+    },
+    "ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k": {
+      "id": "ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k",
+      "name": "Sophia Raja",
+      "headline": "Local Specialist for Barclays Central London ",
+      "url": "https://www.linkedin.com/in/sophia-raja-40b162298",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 1277,
+      "followerCount": 1368,
+      "openToWork": false
+    },
+    "ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc": {
+      "id": "ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc",
+      "name": "Rees Davis-Campbell BA hons",
+      "headline": "IoD Aspiring Director of the Year 2025 | Founder & CEO, Bee N Spired | Keynote Speaker on Leadership, Resilience & Systems Change",
+      "url": "https://www.linkedin.com/in/rees-davis-campbell-ba-hons-75755bb6",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFkY0bhNLBneQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713611807234?e=1787788800&v=beta&t=kzwbYuBNEg7wDfqKQuiQ5TOCdB515Kr62DwkV4lBxUA",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Rees Rises",
+      "connectionsCount": 1617,
+      "followerCount": 1849,
+      "openToWork": false
+    },
+    "ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA": {
+      "id": "ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA",
+      "name": "Isya Hanif",
+      "headline": "Barclays Relationship Director & Women in Business Ambassador - London",
+      "url": "https://www.linkedin.com/in/isya-hanif-12257b2a",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE0v2Xqisv5mg/profile-displayphoto-crop_800_800/B4EZujp4eOHAAI-/0/1767977226358?e=1787788800&v=beta&t=DSPf8KH6BRvMq5RAqlx95KZHBe_JWQ66DVUxhBZgrqk",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 1789,
+      "followerCount": 2433,
+      "openToWork": false
+    },
+    "ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ": {
+      "id": "ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ",
+      "name": "Deepti Bhalla",
+      "headline": "Relationship Development Manager | Winner of The Charitable Queen of the Year Award London 2025 | Winner of Exceptional Achievement Award 2025 | Finalist for Women In Sales Awards Europe (WISA)2025",
+      "url": "https://www.linkedin.com/in/deepti-bhalla-2ab50a114",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHTNC7d7QYkEw/profile-displayphoto-crop_800_800/B4EZu85GYqKgAI-/0/1768400645275?e=1787788800&v=beta&t=xpkeybiF5FoRyjWP9fAtrKmSkKou5wM4CiZleu60_3A",
+      "roles": [
+        "reactor"
+      ],
+      "location": "Birmingham, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 3044,
+      "followerCount": 3152,
+      "openToWork": false
+    },
+    "ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw": {
+      "id": "ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw",
+      "name": "Jahran Allen-Thompson",
+      "headline": "Public-Sector Systems Leader | High-Stakes Operations & Governance | Hon. Lecturer | Speaker on Leadership Under Pressure, Neurodivergent Systems Thinking & Responsible AI",
+      "url": "https://www.linkedin.com/in/jahranallenthompson",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEyTYW5jzAw-w/profile-displayphoto-shrink_800_800/B4EZXTPWp2HcAc-/0/1743005778357?e=1787788800&v=beta&t=7hF1RRVJu7xj2kNQde0yfg8T162s3qTAA8TrX-f_S7s",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "University of Portsmouth",
+      "connectionsCount": 4936,
+      "followerCount": 4995,
+      "openToWork": false
+    },
+    "ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs": {
+      "id": "ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs",
+      "name": "Lee Baker",
+      "headline": "Shimmer Scent",
+      "url": "https://www.linkedin.com/in/shimmerscent",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "Chesham, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Shimmer Scent",
+      "connectionsCount": 420,
+      "followerCount": 427,
+      "openToWork": false
+    },
+    "ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ": {
+      "id": "ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ",
+      "name": "Sara Hobbs",
+      "headline": "Relationship Development Manager London Growth Team",
+      "url": "https://www.linkedin.com/in/sara-hobbs",
+      "avatarUrl": null,
+      "roles": [
+        "reactor"
+      ],
+      "location": "United Kingdom, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays",
+      "connectionsCount": 2361,
+      "followerCount": 2632,
+      "openToWork": false
+    },
+    "ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI": {
+      "id": "ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI",
+      "name": "Shakira Taylor",
+      "headline": "Wellbeing Expert specialising in Women’s Health. Speaker, Host & Fitness Instructor. Passionate about providing solutions for workplace wellbeing.",
+      "url": "https://www.linkedin.com/in/shakirataylor",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4D03AQElnJ7TJXXM6Q/profile-displayphoto-crop_800_800/B4DZnuQKeOKsAI-/0/1760638840466?e=1787788800&v=beta&t=ZZ1iMfL19GtKRUdFzfkCpIZjnjZSGtMWIPCHQfk9qus",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Fitness With Shakira",
+      "connectionsCount": 788,
+      "followerCount": 1223,
+      "openToWork": false
+    },
+    "ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ": {
+      "id": "ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ",
+      "name": "Sunny Vaidya",
+      "headline": "Assistant Vice President - Business Relationship Manager at Barclays ",
+      "url": "https://www.linkedin.com/in/sunnyvaidya",
+      "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGMuFkYaU7_bQ/profile-displayphoto-crop_800_800/B4EZrj0X.2IIAI-/0/1764758750375?e=1787788800&v=beta&t=RWmsQrMs56Tpz0vGr6mpj0Rh4ni9Q6mv_bHsNBgnTKU",
+      "roles": [
+        "reactor"
+      ],
+      "location": "London, United Kingdom",
+      "country": "United Kingdom",
+      "currentCompany": "Barclays UK",
+      "connectionsCount": 2072,
+      "followerCount": 2133,
+      "openToWork": false
+    }
+  },
+  "comments": [
+    {
+      "id": "7471250417537081345",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7469741789093072896%2C7471250417537081345%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287471250417537081345%2Curn%3Ali%3Aactivity%3A7469741789093072896%29",
+      "text": "Sandi Thomas Shekinah Glory ",
+      "createdAt": "2026-06-12T17:21:48.662Z",
+      "reactionsOnComment": 0,
+      "personId": "ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM"
+    },
+    {
+      "id": "7469763165787181056",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7469741789093072896%2C7469763165787181056%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287469763165787181056%2Curn%3Ali%3Aactivity%3A7469741789093072896%29",
+      "text": "Looking forward to this one! 💁🏾‍♀️",
+      "createdAt": "2026-06-08T14:52:00.213Z",
+      "reactionsOnComment": 0,
+      "personId": "ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU"
+    },
+    {
+      "id": "7469741829396049922",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469741789093072896?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7469741789093072896%2C7469741829396049922%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287469741829396049922%2Curn%3Ali%3Aactivity%3A7469741789093072896%29",
+      "text": "https://www.eventbrite.co.uk/e/from-beauty-brand-to-business-success-empowering-female-founders-tickets-1990645365876",
+      "createdAt": "2026-06-08T13:27:13.221Z",
+      "reactionsOnComment": 2,
+      "personId": "ACoAABHY6A8BSWg3KD5OQdQhVxsLyOa2rflfmjg"
+    }
+  ],
+  "reactions": [
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAAAyOqVYB00BGbSwalIibvTq89ZxsppZ3-BY"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAABC_jdcBhVhhAJjtAKM5O_TacuTKugmOMME"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAs5uQ4Bxjmcj4brLiTHVo8O6sFKkRAhrpU"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAD4f1RgBHlmJ_tCQCojiw8PIFAE4meGxdp4"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACrTVmsBpaObKG7WpRL1V8XSiXzaKRCgRXQ"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAAATB2eABB7nCLbufHcO3Ps69j9X7uyt26TM"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAAANynhUBCqtojmTjugs4pnZfkOAIOuRajvU"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAB_6GdMB3PK-DHD7eSkrm2H1P2dcFOcKdXI"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAADsn-6MBqZjhP7pPYxhLhmXE2c-fYUQcS3g"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAABFOQf8BsoPwwYiR-5OqnLVTGiEw32qinjs"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACi2YX0BaYxjFllDaLYVLcdu2yK1sQIlvjg"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAADNvykkBU6FutCkpL26LqpLymN4rbghjuuU"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACjebgIBw3KzYoFVGnVUHy4aaFel6zm18ZE"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAB1XMwcBH69-r0H2lDN7lQhCTXcfYyIbTvw"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAACpg1FUB2VvX60rFupAFokyst38JjPCWxG0"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAGN7NpoBsYKfqp7br4hz5zZomq_xf5HPojs"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACv3Y40BPeE6oVbiywLMBqVrYuif9LHtP9s"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAABnEH5gB3CA0AFX4bnSZyq-YJsgZVy_PO3k"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAk0bu0BiMPVEpr9CdAOCkWQVlKs-SGuIw8"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAAAzFkxwBHEAk5_mry4RJ3hPrl1BSBIg7Vbs"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAkP91QBYaXI2ClQGENqsE4EXP1Fi3ukI7Q"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACgk_mABsFo7eVcibU-hmrOGFsR11Sz8ZWY"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAC0FcRUBogsMeeJ2W5OWb6FWiivD6rbs0Oc"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAErwVnwB3nAm6KEdQ6CCLCDwcW3eW0F1nr4"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAMVpDkBwOCUpYbGO6c_FuRNiJGj2j2wHh4"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAuH6EwBkUzV24ZFsUPeTzUSlQZ7XecmJxI"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAABfBlSYBukkS570u_qGnBw6NW_E_AiyhJdQ"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAHVHuUBcdZHws6YWbOtNFqE9pW-fcCCrzg"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAADbarEBFsk6DgnTlEziw2UE2-P2lPluSJQ"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAdS3_0BQYXLThCrlj5-xgZ5CLxlNfGJWmc"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACyPO0UBYJssaR3Ki0kt8WVVYWm552Ra0W8"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU,urn:li:activity:7469741789093072896,0)",
+      "type": "PRAISE",
+      "personId": "ACoAAAh_IP0BIAlHBA0YQqAhDhynuDDYkYIusEU"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU,urn:li:activity:7469741789093072896,0)",
+      "type": "APPRECIATION",
+      "personId": "ACoAAB1Um0IB1jNXV2nVgRAE0QTZNe3hKsp-EIU"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACiedd0B-o2kf8aWo_V5Eoitx_qTJ3ssUcg"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAABDlkvMBRf4_jKlL1jNOryD6U1yBrzW6Rns"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAAEftAcsBnL_sUYbcy7uRkIL4ofd6MNwZH6k"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAABikf3MBAU1L0jD27xvZFvWkTqRoo0nQ7wc"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA,urn:li:activity:7469741789093072896,0)",
+      "type": "EMPATHY",
+      "personId": "ACoAAAYineoB_UCos_6YVrbJKL2kNt1AiLS9qHA"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAByNQSMBuaVooBzrzOzuIuznSJH0TUTZ6mQ"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw,urn:li:activity:7469741789093072896,0)",
+      "type": "APPRECIATION",
+      "personId": "ACoAAAj7-rABgIr15GbbZ6K6FNrfrprBpSF1gBw"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAsSjRkBJdabp_6vmc61YBG75n9q8_aykFU"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAAYjs3kBhWPcvHvZSdpeqfWN7PkNsdxkHjs"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAACI_7nABOHhSz3ZH7R16tqV-WlvSUav4YoQ"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAAA-bhoMBOZxIqnfOensR0irbApSn83gSXjI"
+    },
+    {
+      "id": "urn:li:fsd_reaction:(urn:li:fsd_profile:ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ,urn:li:activity:7469741789093072896,0)",
+      "type": "LIKE",
+      "personId": "ACoAABQbgugB8xKqYFyp-uRSiLG46y99bq0nMNQ"
+    }
+  ],
+  "coverage": {
+    "commentsCollected": 3,
+    "commentsTotal": 3,
+    "reactionsCollected": 45,
+    "reactionsTotal": 45
+  }
+}
