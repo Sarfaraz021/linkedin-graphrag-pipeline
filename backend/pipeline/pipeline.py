@@ -9,10 +9,15 @@ from backend.pipeline.backbone import load_backbone
 from backend.pipeline.classify import classify_and_persist_posts
 from backend.pipeline.config import Settings, get_settings
 from backend.pipeline.corpus import iter_corpus_for_posts
-from backend.pipeline.extract import extract_semantic_graph_async
+from backend.pipeline.extract import extract_all_posts_async
 from backend.pipeline.io_load import iter_structured_posts
 from backend.pipeline.neo4j_client import Neo4jClient
-from backend.pipeline.resolve import reconcile_llm_post_stubs, run_entity_resolution
+from backend.pipeline.resolve import (
+    fuzzy_resolve_semantic_entities_async,
+    mark_resolved_semantic_nodes,
+    reconcile_llm_person_stubs,
+    reconcile_llm_post_stubs,
+)
 
 
 def load_all_posts(settings: Settings) -> list[dict[str, Any]]:
@@ -25,6 +30,36 @@ def run_backbone(settings: Settings | None = None) -> dict[str, int]:
     with Neo4jClient(settings) as client:
         client.ensure_schema()
         return load_backbone(client, posts)
+
+
+async def _run_semantic_graph_async(
+    client: Neo4jClient,
+    settings: Settings,
+    posts: list[dict[str, Any]],
+    corpus_items: list[tuple[str, str, str]],
+) -> dict[str, Any]:
+    classification_results = classify_and_persist_posts(client, settings, posts)
+
+    extraction_results = await extract_all_posts_async(
+        client, settings, corpus_items
+    )
+    post_stubs_merged = 0
+    for post_id, _, _ in corpus_items:
+        post_stubs_merged += reconcile_llm_post_stubs(client, post_id)
+
+    person_merged = reconcile_llm_person_stubs(client)
+    await fuzzy_resolve_semantic_entities_async(client, settings)
+    mark_resolved_semantic_nodes(client)
+
+    return {
+        "posts_processed": len(corpus_items),
+        "classification": classification_results,
+        "extraction_runs": len(extraction_results),
+        "resolution": {
+            "llm_person_stubs_merged": person_merged,
+            "llm_post_stubs_merged": post_stubs_merged,
+        },
+    }
 
 
 def run_semantic_graph(settings: Settings | None = None) -> dict[str, Any]:
@@ -46,27 +81,9 @@ def run_semantic_graph(settings: Settings | None = None) -> dict[str, Any]:
         corpus_items.append((post_id, corpus_text, post_urls.get(post_id, "")))
 
     with Neo4jClient(settings) as client:
-        classification_results = classify_and_persist_posts(client, settings, posts)
-
-        extraction_results = []
-        post_stubs_merged = 0
-        for post_id, corpus_text, post_url in corpus_items:
-            result = asyncio.run(
-                extract_semantic_graph_async(
-                    client, settings, post_id, corpus_text, post_url
-                )
-            )
-            extraction_results.append(result)
-            post_stubs_merged += reconcile_llm_post_stubs(client, post_id)
-        resolution_stats = run_entity_resolution(client, settings)
-        resolution_stats["llm_post_stubs_merged"] = post_stubs_merged
-
-    return {
-        "posts_processed": len(corpus_items),
-        "classification": classification_results,
-        "extraction_runs": len(extraction_results),
-        "resolution": resolution_stats,
-    }
+        return asyncio.run(
+            _run_semantic_graph_async(client, settings, posts, corpus_items)
+        )
 
 
 def run_all(settings: Settings | None = None) -> dict[str, Any]:

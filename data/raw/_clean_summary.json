@@ -1,106 +1,169 @@
 {
-  "cleaned": 11,
+  "cleaned": 18,
   "failed": 0,
   "output_dir": "data/raw",
   "posts": [
     {
-      "postId": "7469703844323545089",
-      "source": "linkedin scraper/output/structured/7469703844323545089.json",
-      "output": "data/raw/7469703844323545089.json",
-      "people": 9,
-      "comments": 1,
-      "reactions": 8,
-      "lines": 228
+      "postId": "7462161901226201088",
+      "source": "linkedin scraper/output/structured/7462161901226201088.json",
+      "output": "data/raw/7462161901226201088.json",
+      "people": 367,
+      "comments": 86,
+      "reactions": 352,
+      "lines": 8393
     },
     {
-      "postId": "7470051946918260736",
-      "source": "linkedin scraper/output/posts/7470051946918260736.json",
-      "output": "data/raw/7470051946918260736.json",
-      "people": 166,
-      "comments": 23,
-      "reactions": 164,
-      "lines": 2704
+      "postId": "7463506195346026497",
+      "source": "linkedin scraper/output/structured/7463506195346026497.json",
+      "output": "data/raw/7463506195346026497.json",
+      "people": 91,
+      "comments": 9,
+      "reactions": 87,
+      "lines": 2030
     },
     {
-      "postId": "7470270991294971904",
-      "source": "linkedin scraper/output/structured/7470270991294971904.json",
-      "output": "data/raw/7470270991294971904.json",
-      "people": 10,
-      "comments": 0,
-      "reactions": 9,
-      "lines": 246
+      "postId": "7469633486455431168",
+      "source": "linkedin scraper/output/structured/7469633486455431168.json",
+      "output": "data/raw/7469633486455431168.json",
+      "people": 87,
+      "comments": 4,
+      "reactions": 85,
+      "lines": 1885
     },
     {
-      "postId": "7470452039668436992",
-      "source": "linkedin scraper/output/structured/7470452039668436992.json",
-      "output": "data/raw/7470452039668436992.json",
-      "people": 72,
-      "comments": 8,
-      "reactions": 69,
-      "lines": 1593
-    },
-    {
-      "postId": "7470457277142077440",
-      "source": "linkedin scraper/output/structured/7470457277142077440.json",
-      "output": "data/raw/7470457277142077440.json",
-      "people": 6,
+      "postId": "7469717888950685697",
+      "source": "linkedin scraper/output/structured/7469717888950685697.json",
+      "output": "data/raw/7469717888950685697.json",
+      "people": 61,
       "comments": 6,
-      "reactions": 0,
-      "lines": 265
+      "reactions": 59,
+      "lines": 1360
     },
     {
-      "postId": "7470471051978620928",
-      "source": "linkedin scraper/output/structured/7470471051978620928.json",
-      "output": "data/raw/7470471051978620928.json",
+      "postId": "7469741789093072896",
+      "source": "linkedin scraper/output/structured/7469741789093072896.json",
+      "output": "data/raw/7469741789093072896.json",
       "people": 46,
-      "comments": 6,
+      "comments": 3,
       "reactions": 45,
-      "lines": 1067
+      "lines": 1010
     },
     {
-      "postId": "7470500472403984384",
-      "source": "linkedin scraper/output/structured/7470500472403984384.json",
-      "output": "data/raw/7470500472403984384.json",
-      "people": 54,
-      "comments": 2,
-      "reactions": 53,
-      "lines": 1171
+      "postId": "7469752326434615296",
+      "source": "linkedin scraper/output/structured/7469752326434615296.json",
+      "output": "data/raw/7469752326434615296.json",
+      "people": 115,
+      "comments": 14,
+      "reactions": 113,
+      "lines": 2566
     },
     {
-      "postId": "7470551993103851520",
-      "source": "linkedin scraper/output/structured/7470551993103851520.json",
-      "output": "data/raw/7470551993103851520.json",
-      "people": 112,
-      "comments": 0,
-      "reactions": 111,
-      "lines": 2440
+      "postId": "7469769030891909120",
+      "source": "linkedin scraper/output/structured/7469769030891909120.json",
+      "output": "data/raw/7469769030891909120.json",
+      "people": 64,
+      "comments": 5,
+      "reactions": 62,
+      "lines": 1519
     },
     {
-      "postId": "7470716455882502144",
-      "source": "linkedin scraper/output/structured/7470716455882502144.json",
-      "output": "data/raw/7470716455882502144.json",
-      "people": 50,
-      "comments": 11,
-      "reactions": 46,
-      "lines": 1144
+      "postId": "7469773229067423744",
+      "source": "linkedin scraper/output/structured/7469773229067423744.json",
+      "output": "data/raw/7469773229067423744.json",
+      "people": 59,
+      "comments": 7,
+      "reactions": 58,
+      "lines": 1335
     },
     {
-      "postId": "7470785762893041666",
-      "source": "linkedin scraper/output/posts/7470785762893041666.json",
-      "output": "data/raw/7470785762893041666.json",
-      "people": 264,
-      "comments": 53,
-      "reactions": 249,
-      "lines": 4343
+      "postId": "7469832921890234369",
+      "source": "linkedin scraper/output/structured/7469832921890234369.json",
+      "output": "data/raw/7469832921890234369.json",
+      "people": 192,
+      "comments": 8,
+      "reactions": 187,
+      "lines": 4247
     },
     {
-      "postId": "7470802348391673856",
-      "source": "linkedin scraper/output/structured/7470802348391673856.json",
-      "output": "data/raw/7470802348391673856.json",
-      "people": 185,
-      "comments": 25,
-      "reactions": 183,
-      "lines": 4138
+      "postId": "7470031186178977793",
+      "source": "linkedin scraper/output/structured/7470031186178977793.json",
+      "output": "data/raw/7470031186178977793.json",
+      "people": 37,
+      "comments": 4,
+      "reactions": 35,
+      "lines": 847
+    },
+    {
+      "postId": "7470080257358852096",
+      "source": "linkedin scraper/output/structured/7470080257358852096.json",
+      "output": "data/raw/7470080257358852096.json",
+      "people": 285,
+      "comments": 28,
+      "reactions": 275,
+      "lines": 6210
+    },
+    {
+      "postId": "7470122335853920256",
+      "source": "linkedin scraper/output/structured/7470122335853920256.json",
+      "output": "data/raw/7470122335853920256.json",
+      "people": 220,
+      "comments": 9,
+      "reactions": 215,
+      "lines": 4642
+    },
+    {
+      "postId": "7470127369190608897",
+      "source": "linkedin scraper/output/structured/7470127369190608897.json",
+      "output": "data/raw/7470127369190608897.json",
+      "people": 46,
+      "comments": 1,
+      "reactions": 45,
+      "lines": 988
+    },
+    {
+      "postId": "7470134862591569920",
+      "source": "linkedin scraper/output/structured/7470134862591569920.json",
+      "output": "data/raw/7470134862591569920.json",
+      "people": 288,
+      "comments": 4,
+      "reactions": 286,
+      "lines": 6086
+    },
+    {
+      "postId": "7470198159542157312",
+      "source": "linkedin scraper/output/structured/7470198159542157312.json",
+      "output": "data/raw/7470198159542157312.json",
+      "people": 38,
+      "comments": 4,
+      "reactions": 36,
+      "lines": 857
+    },
+    {
+      "postId": "7470352519903240192",
+      "source": "linkedin scraper/output/structured/7470352519903240192.json",
+      "output": "data/raw/7470352519903240192.json",
+      "people": 32,
+      "comments": 1,
+      "reactions": 30,
+      "lines": 700
+    },
+    {
+      "postId": "7470376778100834304",
+      "source": "linkedin scraper/output/structured/7470376778100834304.json",
+      "output": "data/raw/7470376778100834304.json",
+      "people": 98,
+      "comments": 19,
+      "reactions": 91,
+      "lines": 2207
+    },
+    {
+      "postId": "7470440395710164993",
+      "source": "linkedin scraper/output/structured/7470440395710164993.json",
+      "output": "data/raw/7470440395710164993.json",
+      "people": 90,
+      "comments": 5,
+      "reactions": 88,
+      "lines": 2107
     }
   ],
   "errors": []

@@ -1,0 +1,52 @@
+Neo4j load status — 2026-08-06 (verified while you were at lunch)
+================================================================
+
+SUMMARY: All scraped data IS loaded. 29 posts total in Neo4j.
+
+Breakdown
+---------
+  Original batch:     11 posts (already in graph before teammate scrape)
+  Teammate scrape:    18 posts (from origin/datascraping branch)
+  Total in Neo4j:     29 posts — all classified, all have semantic chunks
+
+Neo4j counts (live)
+-------------------
+  Posts:          29
+  People:         3,428
+  Comments:       354
+  Reactions:      3,086
+  Organisations:  139
+  Chunks:         43
+
+Categories
+----------
+  Event: 14 | FounderStory: 4 | Uncategorised: 3 | RetailerBuyer: 3
+  Award: 2 | ProductLaunch: 2 | Fundraising: 1
+
+Teammate posts: 18/18 have comments + reactions loaded.
+
+What was done this session
+--------------------------
+1. Re-ran backbone load for all 29 posts (INPUT_DIR=data/raw) — success
+2. Fixed io_load.py to skip _clean_summary.json (was blocking full reload)
+3. Fixed pipeline.py single event loop (no more "Event loop is closed" spam)
+4. Updated agent prompt — removed hardcoded "~11 posts" (was misleading demo)
+
+Why it may have looked "not loaded"
+-----------------------------------
+- Demo agent was told the graph only has ~11 posts (now fixed)
+- Full reload with INPUT_DIR=data/raw failed on _clean_summary.json (now fixed)
+- Teammate only scraped 18 URLs so far (not the full 20–70 batch yet)
+
+To demo when back
+-----------------
+  Terminal 1: source .venv/bin/activate && uvicorn backend.api.main:app --reload --port 8000
+  Terminal 2: cd frontend && npm run dev
+  Open http://localhost:5173 — stats sidebar should show 29 posts
+
+When more scraped files arrive
+------------------------------
+  git fetch && git checkout origin/datascraping -- "linkedin scraper/output/structured/"
+  PYTHONPATH=. python scripts/clean_structured_posts.py
+  INPUT_DIR=data/raw PYTHONPATH=. python scripts/01_load_backbone.py
+  INPUT_DIR=data/raw PYTHONPATH=. python scripts/02_build_semantic_graph.py

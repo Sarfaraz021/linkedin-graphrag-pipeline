@@ -48,7 +48,9 @@ def load_structured_post(path: Path) -> dict[str, Any]:
 def iter_structured_posts(input_dir: Path) -> Iterator[dict[str, Any]]:
     if not input_dir.exists():
         raise FileNotFoundError(f"Input directory not found: {input_dir}")
-    paths = sorted(input_dir.glob("*.json"))
+    paths = sorted(
+        p for p in input_dir.glob("*.json") if not p.name.startswith("_")
+    )
     if not paths:
         raise FileNotFoundError(f"No structured JSON files in {input_dir}")
     for path in paths:
