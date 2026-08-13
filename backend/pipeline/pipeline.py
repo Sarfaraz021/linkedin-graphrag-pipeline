@@ -9,9 +9,14 @@ from backend.pipeline.backbone import load_backbone
 from backend.pipeline.classify import classify_and_persist_posts
 from backend.pipeline.config import Settings, get_settings
 from backend.pipeline.corpus import iter_corpus_for_posts
+from backend.pipeline.entity_embed import embed_entities_async
 from backend.pipeline.extract import extract_all_posts_async
 from backend.pipeline.io_load import iter_structured_posts
 from backend.pipeline.neo4j_client import Neo4jClient
+from backend.pipeline.org_classify import (
+    classify_and_persist_organisations,
+    fix_merged_org_types,
+)
 from backend.pipeline.resolve import (
     fuzzy_resolve_semantic_entities_async,
     mark_resolved_semantic_nodes,
@@ -47,18 +52,26 @@ async def _run_semantic_graph_async(
     for post_id, _, _ in corpus_items:
         post_stubs_merged += reconcile_llm_post_stubs(client, post_id)
 
+    org_type_results = classify_and_persist_organisations(client, settings)
+
     person_merged = reconcile_llm_person_stubs(client)
     await fuzzy_resolve_semantic_entities_async(client, settings)
     mark_resolved_semantic_nodes(client)
+    org_types_fixed = fix_merged_org_types(client)
+
+    entities_embedded = await embed_entities_async(client, settings)
 
     return {
         "posts_processed": len(corpus_items),
         "classification": classification_results,
         "extraction_runs": len(extraction_results),
+        "organisations_typed": len(org_type_results),
         "resolution": {
             "llm_person_stubs_merged": person_merged,
             "llm_post_stubs_merged": post_stubs_merged,
+            "org_types_fixed_after_merge": org_types_fixed,
         },
+        "entities_embedded": entities_embedded,
     }
 
 

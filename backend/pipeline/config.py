@@ -50,10 +50,13 @@ class Settings:
             anthropic_api_key=os.getenv("ANTHROPIC_API_KEY", ""),
             llm_provider=os.getenv("LLM_PROVIDER", "auto"),
             llm_model=os.getenv("LLM_MODEL", "gpt-4o-mini"),
-            anthropic_model=os.getenv("ANTHROPIC_MODEL", "claude-3-5-haiku-20241022"),
+            anthropic_model=os.getenv("ANTHROPIC_MODEL", "claude-3-5-haiku-latest"),
             embed_model=os.getenv("EMBED_MODEL", "text-embedding-3-small"),
-            chunk_records=int(os.getenv("CHUNK_RECORDS", "30")),
-            chunk_overlap=int(os.getenv("CHUNK_OVERLAP", "5")),
+            # Smaller chunks measurably improve LLM relationship-extraction recall
+            # (dense chunks with many similar profile records bias the model
+            # toward the repeated pattern and away from narrative facts).
+            chunk_records=int(os.getenv("CHUNK_RECORDS", "10")),
+            chunk_overlap=int(os.getenv("CHUNK_OVERLAP", "3")),
             input_dir=Path(os.getenv("INPUT_DIR", "data/raw")),
             processed_dir=Path(os.getenv("PROCESSED_DIR", "data/processed")),
             include_reactor_profiles=_env_bool("INCLUDE_REACTOR_PROFILES", False),

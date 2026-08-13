@@ -69,8 +69,24 @@ NODE_TYPES: list[NodeType | str | dict[str, Any]] = [
     },
     {
         "label": "Organisation",
-        "description": "Company, agency, broadcaster, accelerator, or industry body.",
-        "properties": [{"name": "name", "type": "STRING"}],
+        "description": (
+            "Company, agency, broadcaster, accelerator, or industry body. Classify its "
+            "orgType (see docs/CLASSIFICATION_VOCAB.md) — sponsoring an award/event is NOT "
+            "the same as funding a business: a Broadcaster/Sponsor org is not a Funder/Investor "
+            "unless it demonstrably gives money directly to a brand/business (FUNDS/INVESTED_IN)."
+        ),
+        "properties": [
+            {"name": "name", "type": "STRING"},
+            {
+                "name": "orgType",
+                "type": "STRING",
+                "description": (
+                    "One of: Brand, Retailer, Distributor, Investor, Funder, Accelerator, "
+                    "Incubator, Sponsor, Broadcaster, AwardBody, Agency, IndustryBody, "
+                    "TradeShowOrganiser, Other."
+                ),
+            },
+        ],
     },
     {
         "label": "Brand",
@@ -129,12 +145,36 @@ RELATIONSHIP_TYPES: list[RelationshipType | str | dict[str, Any]] = [
     _semantic_rel("FOUNDED", "Person/Founder founded a Brand or Organisation."),
     _semantic_rel("WORKS_AT", "Person works at an Organisation."),
     _semantic_rel("LISTED_IN", "Brand is listed in / sold at a Retailer."),
-    _semantic_rel("SUPPORTED_BY", "Organisation, Brand, or Award programme supported or sponsored by another Organisation."),
+    _semantic_rel(
+        "SUPPORTED_BY",
+        "NON-FINANCIAL support only: mentorship, visibility, endorsement, platform, or "
+        "amplification given to an Organisation, Brand, or Award by another Organisation. "
+        "Never use this for money changing hands — sponsoring an award/event is SPONSORS, "
+        "equity investment is INVESTED_IN, and grants/non-equity funding is FUNDS.",
+    ),
     _semantic_rel("OPERATES_IN", "Brand or Organisation operates in a Category or market."),
-    _semantic_rel("INVESTED_IN", "Investor invested in a Brand or Organisation."),
+    _semantic_rel(
+        "INVESTED_IN",
+        "STRICT equity investment: an Investor puts capital into a Brand or Organisation "
+        "in exchange for equity/ownership stake.",
+    ),
     _semantic_rel("BASED_IN", "Person or Organisation based in a Location."),
     _semantic_rel("NOMINATED_FOR", "Person nominated for an Award or Programme."),
-    _semantic_rel("SPONSORS", "Organisation sponsors an Award, Event, or Programme."),
+    _semantic_rel(
+        "SPONSORS",
+        "STRICT award/event/programme sponsorship only — an Organisation pays to be "
+        "associated with (headline/backs/sponsors) an Award, Event, or Programme. This is "
+        "brand/marketing spend, NOT funding of a business — do not also emit FUNDS or "
+        "INVESTED_IN for the same fact. Example: ITV SPONSORS bCreator (ITV is a Broadcaster "
+        "sponsor, not a funder or investor).",
+    ),
+    _semantic_rel(
+        "FUNDS",
+        "Grant or other NON-EQUITY funding given directly to a Brand or Organisation (e.g. "
+        "a government scheme, foundation, or fund gives money to a business with no award/"
+        "event attached and no equity taken). Do not use for award/event sponsorship "
+        "(use SPONSORS) or equity investment (use INVESTED_IN).",
+    ),
     _semantic_rel("PARTICIPATED_IN", "Brand or Person participated in an Event or Programme."),
     _semantic_rel("RUNS", "Organisation runs a Programme or Accelerator."),
 ]
@@ -153,6 +193,8 @@ PATTERNS: list[tuple[str, str, str]] = [
     ("Organisation", "OPERATES_IN", "Category"),
     ("Investor", "INVESTED_IN", "Brand"),
     ("Investor", "INVESTED_IN", "Organisation"),
+    ("Organisation", "FUNDS", "Brand"),
+    ("Organisation", "FUNDS", "Organisation"),
     ("Person", "BASED_IN", "Location"),
     ("Organisation", "BASED_IN", "Location"),
     ("Person", "NOMINATED_FOR", "Award"),
@@ -165,6 +207,24 @@ PATTERNS: list[tuple[str, str, str]] = [
     ("Brand", "PARTICIPATED_IN", "Event"),
     ("Brand", "PARTICIPATED_IN", "Programme"),
 ]
+
+# Controlled vocabulary for Organisation.orgType (see docs/CLASSIFICATION_VOCAB.md).
+ORG_TYPES: tuple[str, ...] = (
+    "Brand",
+    "Retailer",
+    "Distributor",
+    "Investor",
+    "Funder",
+    "Accelerator",
+    "Incubator",
+    "Sponsor",
+    "Broadcaster",
+    "AwardBody",
+    "Agency",
+    "IndustryBody",
+    "TradeShowOrganiser",
+    "Other",
+)
 
 # Labels handled by semantic extraction + fuzzy resolution (not backbone-only).
 SEMANTIC_NODE_LABELS = {

@@ -31,6 +31,17 @@ CONSTRAINTS_AND_INDEXES = [
         "FOR (c:Chunk) ON (c.embedding) "
         "OPTIONS {indexConfig: {`vector.dimensions`: 1536, `vector.similarity_function`: 'cosine'}}"
     ),
+    (
+        "CREATE VECTOR INDEX entity_embedding IF NOT EXISTS "
+        "FOR (n:__Entity__) ON (n.entity_embedding) "
+        "OPTIONS {indexConfig: {`vector.dimensions`: 1536, `vector.similarity_function`: 'cosine'}}"
+    ),
+    (
+        "CREATE FULLTEXT INDEX entity_name_fulltext IF NOT EXISTS "
+        "FOR (n:Organisation|Brand|Retailer|Award|Event|Programme|Accelerator|Distributor) "
+        "ON EACH [n.name]"
+    ),
+    "CREATE INDEX organisation_type IF NOT EXISTS FOR (o:Organisation) ON (o.orgType)",
 ]
 
 
@@ -78,7 +89,7 @@ class Neo4jClient:
                 self.run_write(stmt)
             except Exception as exc:
                 # Vector index may fail if dimensions differ or edition lacks vector support.
-                if "chunk_embedding" in stmt:
+                if "chunk_embedding" in stmt or "entity_embedding" in stmt:
                     continue
                 raise exc
 
